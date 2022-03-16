@@ -7,7 +7,7 @@ Vor Dir siehst Du den bronzenen Frauenakt "Am Wasser" von Fritz Klimsch. Fritz K
 
 
 Die Frau sitzt bereits seit 1931 in ihrer anmutigen Haltung an diesem Ort.  
-Klimschs Skulpturen finden sich auch an anderen Orten in Frankfurt. Gar nicht weit weg von hier findest Du z.B. im Palmengarten seine Skulptur ["Eva"](https://www.kunst-im-oeffentlichen-raum-frankfurt.de/de/page42.html?id=395&standort=149). An dieser Stelle sei erwähnt, dass der Künstler Fritz Klimsch  ein Günstling des NS-Regimes.  
+Klimschs Skulpturen finden sich auch an anderen Orten in Frankfurt. Gar nicht weit weg von hier findest Du z.B. im Palmengarten seine Skulptur ["Eva"](https://www.kunst-im-oeffentlichen-raum-frankfurt.de/de/page42.html?id=395&standort=149). An dieser Stelle sei erwähnt, dass der Künstler Fritz Klimsch  ein Günstling des NS-Regimes war.  
 
 _"Es handelt sich hier nicht um zarte, schwächliche, zerbrechliche, sondern um feste, starke, gesunde Mädchenkörper, obwohl es einem auf den ersten Blick so vorkommt, als schlösse die überaus sensible Bewegung das Kräftige aus. Kraft und Anmut bedingen einander, das ist eine alte Tatsache. Es gibt keine schwache Grazie.“_ (Goebbels)
 
