@@ -1,4 +1,4 @@
-### Information Security Overconfindence
+# Information Security Overconfindence
 
 Die Gefahr durch Sicherheitsvorfälle ist stark gestiegen. Jeder dritte gezielte Sicherheitsangriff ist erfolgreich und gleichzeitig halten die meisten Mitarbeiter ihr Unternehmen für ziemlich sicher. 
 Clara Ament hat sich mit der Frage beschäftigt, ob Mitarbeiter dazu neigen, sich selbst zu überschätzen. Die Ergebnisse werden dich möglicherweise dazu bringen, Dein eigenes Verhalten zu hinterfragen.
@@ -9,13 +9,13 @@ Overconfidence bedeutet Selbstüberschätzung und meint eine kognitive Verzerrun
 ## Theoretischer Ansatz
 Nun zur eigentlichen Forschungsfrage. Im Kontext von Overconfidence bei Informationssicherheit wird ein mehrschichtiger Ansatz vorgeschlagen bestehend aus:
 
-# Overestimation
+### Overestimation
 Individuen überschätzen ihre eigenen Fähigkeiten, Leistungen, Kontrollmöglichkeiten, oder Erfolgschancen. 
 
-# Overprecison 
+### Overprecison 
 Individuen sind sich ihrer selbst zu sicher und legen zu enge Konfidenzintervalle fest.
 
-# Overplacement
+### Overplacement
 Individuen fühlen sich anderen überlegen (relative Selbstüberschätzung)
 
 **Kurz und knapp:** Menschen überschätzen sich, sind sich dabei ihrer selbst ziemlich sicher und glauben dann auch noch sie sind besser als alle anderen.
@@ -32,7 +32,7 @@ Auch sind sie übergenau hinsichtlich der Bewertung ihrer Leistung in beiden Tes
 
 Zusammenfassen haben vorallem die Probanden, die nicht viel Ahnung von Informationssicherheit haben, ziemlich sicher geglaubt, sie wissen genug über Informationssicherheit und das besser als alle anderen.
 
-### Take-aways
+## Take-aways
 
 Information Security Overconfidence existiert und ist ein großes Risiko für Firmen!
 
