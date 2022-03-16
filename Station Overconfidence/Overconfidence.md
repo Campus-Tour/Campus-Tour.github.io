@@ -40,4 +40,4 @@ Es gibt drei Arten von Information Security Overconfidence: Menschen überschät
 
 Selbstüberschätzung kann schwerwiegende Konsequenzen haben. 
 
-
+![Passwort BSI](Sicheres_Passwort_BSI.jpg)
