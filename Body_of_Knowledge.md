@@ -14,3 +14,4 @@ Weitere Skulpturen von Jaume Plensa findest du [hier](https://jaumeplensa.com/wo
 Video ab 21:30
 
 
+{% include Body_of_Knowledge_youtubePlayer.html id="f-ESeIvn5ZU?start=1289" %}
