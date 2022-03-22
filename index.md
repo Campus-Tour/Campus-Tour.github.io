@@ -7,6 +7,6 @@ Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und d
 
 [Am Wasser](Test.md)
 
-[Body of Knowledge](Campus-Tour/Campus-Tour.github.io/Body_of_Knowledge/Body_of_Knowledge.md)
+[Body of Knowledge](Campus-Tour.github.io/Body_of_Knowledge/Body_of_Knowledge.md)
 
 
