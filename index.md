@@ -5,9 +5,6 @@ Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und d
 ### Wir wünschen Dir viel Spaß!
 
 
-[Station Test](Test.md)
-
-[Station Overconfidence](Station_Overconfidence/Overconfidence.md)
-
+[Am Wasser](Test.md)
 
 [Body of Knowledge](Body_of_Knowledge/Body_of_Knowledge.md)
