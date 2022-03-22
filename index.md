@@ -10,4 +10,4 @@ Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und d
 [Station Overconfidence](Station_Overconfidence/Overconfidence.md)
 
 
-[Body of Knowledge](Body_of_Knowledge.md)
+[Body of Knowledge](Body_of_Knowledge/Body_of_Knowledge.md)
