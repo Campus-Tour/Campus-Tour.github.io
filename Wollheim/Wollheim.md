@@ -1,7 +1,7 @@
 ### Wollheim Pavillion
 
 
-![Wandspruch Pavillion](Bild1.jpg)
+![Wandspruch Pavillion](Bild1.jpg =100x20)
 
 Hier: Exposé von Veronika Duma folgt ende Juni
 
