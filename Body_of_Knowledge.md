@@ -17,5 +17,83 @@ Lust auf ein kleines Bilderrätsel?
 
 <img src="Body_of_Knowledge_rebus.svg" width="600">
 
+<form name="f1">
+  Wort 1: <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers1()">
+
+</form>
+
+<form name="f2">
+  Wort 2: <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers1()">
+
+</form>
+
+<form name="f1">
+  Wort 3: <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers1()">
+
+</form>
+
+<script>
+function checkAnswers1() {
+// document.$formName.$inputName
+  Student_answer = document.f1.studentAnswer.value
+  Teacher_answer = "Alphabet"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Deine Antwort ist korrekt!");
+  } else {
+    alert("Falsche Antwort. Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+  }
+
+}
+
+function checkAnswers2() {
+// document.$formName.$inputName
+  Student_answer = document.f2.studentAnswer.value
+  Teacher_answer = "Universität"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Deine Antwort ist korrekt!");
+  } else {
+    alert("Falsche Antwort. Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+  }
+
+}
+  
+function checkAnswers3() {
+// document.$formName.$inputName
+  Student_answer = document.f3.studentAnswer.value
+  Teacher_answer = "Wissen"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+    return false;
+  }
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Deine Antwort ist korrekt!");
+  } else {
+    alert("Falsche Antwort. Bitte gebe das gesuchte Wort ein. Achte dabei auf Groß- und Kleinschreibung.");
+  }
+
+}
+</script>
 
 
