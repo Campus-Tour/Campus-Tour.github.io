@@ -23,9 +23,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
   <br>
   <input type="button" value="Check" onClick="checkAnswers()">
 
-</form>
-
-function checkAnswers() {
+  function checkAnswers() {
 // document.$formName.$inputName
   Student_answer = document.f1.studentAnswer.value
   Teacher_answer = "abc"
@@ -45,3 +43,5 @@ function checkAnswers() {
   }
 
 }
+
+</form>
