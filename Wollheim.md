@@ -15,9 +15,6 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 <img src="Wollheim_Bild3.jpg" width="200">
 
-<html>
-  <head>
-    <title></title>
     <script>
     function checkAnswers(){
         // The following is what I changed.
@@ -53,8 +50,6 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
       <input type="button" value="Check" onClick="checkAnswers()">
 
     </form>
-  </body>
-</html>
   
 <h3>Write here your answer...</h3>
 <br>
