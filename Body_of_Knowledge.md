@@ -31,7 +31,7 @@ Nutze die Hinweise und überprüfe Deine Antwort indem Du sie in den zugehörige
   Wort 2: <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
-  <input type="button" value="Check" onClick="checkAnswers1()">
+  <input type="button" value="Check" onClick="checkAnswers2()">
 <br>
 </form>
 
@@ -39,7 +39,7 @@ Nutze die Hinweise und überprüfe Deine Antwort indem Du sie in den zugehörige
   Wort 3: <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
-  <input type="button" value="Check" onClick="checkAnswers1()">
+  <input type="button" value="Check" onClick="checkAnswers3()">
 <br>
 </form>
 
