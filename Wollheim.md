@@ -8,7 +8,7 @@ Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk)
 
 Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
-#Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst.
+# Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst.
 
 <img src="Wollheim_Bild2.jpg" width="200">
 
