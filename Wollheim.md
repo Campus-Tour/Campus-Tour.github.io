@@ -52,9 +52,7 @@ function checkAnswers1() {
   }
 
 }
-</script>
 
-<script>
 function checkAnswers2() {
 // document.$formName.$inputName
   Student_answer = document.f1.studentAnswer.value
