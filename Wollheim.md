@@ -11,7 +11,6 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 <img src="Wollheim_Bild2.jpg" width="200">
 
 <h3>Wer ist auf diesem Foto zusehen?</h3>
-<br>
 <form name="f1">
   Vorname Nachname: <input type="text" name="studentAnswer" size="20">
   <br>
