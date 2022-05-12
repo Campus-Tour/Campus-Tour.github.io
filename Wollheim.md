@@ -13,7 +13,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 <h3>Wer ist auf diesem Bild zu sehen?</h3>
 <br>
 <form name="f1">
-  Name: <input type="text" name="studentAnswer" size="20">
+  Name: <input type="password" name="studentAnswer" size="20">
   <br>
   <input type="button" value="Check" onClick="checkAnswers()">
 </form>
