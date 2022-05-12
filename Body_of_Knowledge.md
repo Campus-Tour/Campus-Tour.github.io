@@ -12,3 +12,8 @@ Jaume Plensa [(Quelle)](https://www.kunst-im-oeffentlichen-raum-frankfurt.de/de/
 Weitere Skulpturen von Jaume Plensa findest Du [Hier.](https://jaumeplensa.com/works-and-projects/sculpture)
 
 {% include Body_of_Knowledge_youtubePlayer.html id="f-ESeIvn5ZU?start=1290" %}
+
+Lust auf ein kleines Bilderrätsel?
+
+
+
