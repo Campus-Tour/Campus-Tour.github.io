@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="419.515625" height="109" font-size="24" text-anchor="middle">
+  <style>
+    @font-face { 
+     font-family: 'noto'; 
+     src: url("https://cdn.rawgit.com/googlei18n/noto-emoji/master/fonts/NotoColorEmoji.ttf"); format('truetype');
+     font-weight: 400; 
+     font-style: normal; 
+   }
+  </style>
+  <filter id="shadow" x="0" y="0" width="200%" height="200%">
+    <feDropShadow dx="3" dy="3" stdDeviation="1" flood-color="#aaaaaa" flood-opacity="1" />
+  </filter>
+  
+   <rect x="0" y="0" rx="10" ry="10" width="120.515625" height="103" style="fill:#f0f3f5;" filter="url(#shadow)" />
+  
+   <rect x="143.96875" y="0" rx="10" ry="10" width="164.5625" height="103" style="fill:#f0f3f5;" filter="url(#shadow)" />
+  
+   <rect x="332" y="0" rx="10" ry="10" width="81.515625" height="103" style="fill:#f0f3f5;" filter="url(#shadow)" />
+  
+  <text fill="#000000" font-size="40px" font-family="Noto" x="29" y="48">🐋</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="29" y="75">-w</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="60.2578125" y="24">+</text>
+<text fill="#000000" font-size="40px" font-family="Noto" x="91.515625" y="48">🪐</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="91.515625" y="75">l=h</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="91.515625" y="93">n=b</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="162.234375" y="24">u+</text>
+<text fill="#000000" font-size="40px" font-family="Noto" x="193.5" y="48">🦫</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="193.5" y="75">b=n</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="193.5" y="93">b=v</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="226.2578125" y="24">+si</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="248.2734375" y="24">+</text>
+<text fill="#000000" font-size="40px" font-family="Noto" x="279.53125" y="48">🧀</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="279.53125" y="75">k=t</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="279.53125" y="93">se=t</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="351.7578125" y="24">w+</text>
+<text fill="#000000" font-size="40px" font-family="Noto" x="384.515625" y="48">🏝</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="384.515625" y="75">n=s</text>
+<text fill="#000000" font-size="18px" font-family="Arial" x="384.515625" y="93">l=n</text>
+     
+</svg>
+ 
