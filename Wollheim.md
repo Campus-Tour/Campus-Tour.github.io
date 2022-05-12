@@ -15,6 +15,13 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 <img src="Wollheim_Bild3.jpg" width="200">
 
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+
+
+
 <h3>Write here your answer...</h3>
 <br>
 <form name="f1">
