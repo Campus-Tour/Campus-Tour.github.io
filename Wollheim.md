@@ -38,7 +38,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 function checkAnswers1() {
 // document.$formName.$inputName
   Student_answer = document.f1.studentAnswer.value
-  Teacher_answer = "Marcel Ginzig"
+  Teacher_answer = "MarcelGinzig"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
     alert("Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
