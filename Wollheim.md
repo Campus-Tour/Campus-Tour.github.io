@@ -30,15 +30,14 @@ function checkAnswers1() {
   Teacher_answer = "abc"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
-    alert("Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung");
+    alert("Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
     return false;
   }
 
   if (Student_answer == Teacher_answer) {
     alert("Super! Deine Antwort ist korrekt!");
   } else {
-    alert("Worng answer, please, keep trying...<br />");
-    //NOTE: here the button must be disabled
+    alert("Falsche Antwort. Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
   }
 
 }
