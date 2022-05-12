@@ -9,4 +9,5 @@ Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und d
 
 [Body of Knowledge](Body_of_Knowledge.md)
 
+[Wollheim Pavillion](Wollheim.md)
 
