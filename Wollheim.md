@@ -24,7 +24,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 <img src="Wollheim_Bild3.jpg" width="200">
 
 <h3>Wer ist auf diesem Foto zusehen?</h3>
-<form name="f1">
+<form name="f2">
   Vorname Nachname: <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
@@ -55,7 +55,7 @@ function checkAnswers1() {
 
 function checkAnswers2() {
 // document.$formName.$inputName
-  Student_answer = document.f1.studentAnswer.value
+  Student_answer = document.f2.studentAnswer.value
   Teacher_answer = "Victor Perez"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
