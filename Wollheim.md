@@ -15,8 +15,10 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 <img src="Wollheim_Bild3.jpg" width="200">
 
-
-<script>
+<html>
+  <head>
+    <title></title>
+    <script>
     function checkAnswers(){
         // The following is what I changed.
         Student_answer = document.querySelector('[name="clave1"]').value
@@ -38,6 +40,21 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
     }
     </script>
+  </head>
+  <body>
+
+    <h3>Write here your answer...</h3>
+    <br>
+
+    <form action="" name="f1" onsubmit >
+      Your answer: <input type="password" name="clave1" size="20">
+      <br>
+      <br>
+      <input type="button" value="Check" onClick="checkAnswers()">
+
+    </form>
+  </body>
+</html>
   
 <h3>Write here your answer...</h3>
 <br>
