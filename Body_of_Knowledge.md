@@ -26,7 +26,8 @@ Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörig
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers1()">
-<br>
+  <br>
+  <br>
 </form>
 
 <form name="f2">
@@ -34,7 +35,8 @@ Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörig
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers2()">
-<br>
+  <br>
+  <br>
 </form>
 
 <form name="f3">
@@ -42,7 +44,8 @@ Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörig
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers3()">
-<br>
+ <br>
+ <br>
 </form>
 
 Hast Du Lust,auch einen Rubus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
