@@ -26,7 +26,27 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 function checkAnswers1() {
 // document.$formName.$inputName
   Student_answer = document.f1.studentAnswer.value
-  Teacher_answer = "abc"
+  Teacher_answer = "Marcel Ginzig"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Deine Antwort ist korrekt!");
+  } else {
+    alert("Falsche Antwort. Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
+  }
+
+}
+</script>
+
+<script>
+function checkAnswers2() {
+// document.$formName.$inputName
+  Student_answer = document.f1.studentAnswer.value
+  Teacher_answer = "Victor Perez"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
     alert("Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
