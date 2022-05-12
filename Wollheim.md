@@ -5,6 +5,14 @@
 Hier: Exposé von Veronika Duma folgt ende Juni
 
 Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen prüfen kannst. Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst.
+<form name="f3">
+  Lösungswort (GROßBUCHSTABEN): <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers3()">
+
+</form>
+
 
 Weitere Information findest du auf der [Webseite des Wollheim Pavillons ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
@@ -69,6 +77,25 @@ function checkAnswers2() {
     alert("Super! Deine Antwort ist korrekt!");
   } else {
     alert("Falsche Antwort. Bitte gebe den Vor- und Nachnamen ein. Achte dabei auf Groß- und Kleinschreibung.");
+  }
+
+}
+  
+
+function checkAnswers3() {
+// document.$formName.$inputName
+  Student_answer = document.f3.studentAnswer.value
+  Teacher_answer = "XXXXXX"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Leider keine Übereinstimmung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Du hast das Lösungswort gefunden!");
+  } else {
+    alert("Leider keine Übereinstimmung.");
   }
 
 }
