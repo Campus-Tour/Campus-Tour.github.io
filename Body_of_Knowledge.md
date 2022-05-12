@@ -1,6 +1,7 @@
 ## Body of Knowledge
 
-Eindrucksvoll, oder? Vor die siehst Du den __Body of Knowledge__ des spanischen Künstlers Jaume Plensa. 
+Eindrucksvoll, oder? Vor die siehst Du den __Body of Knowledge__ des spanischen Künstlers Jaume Plensa. <img src="Pose1.svg" width="50">
+
 Ganze 8 Meter ist der Body of Knowledge hoch und setzt sich zusammen aus einzelnen Buchstaben acht verschiedener Sprachen. 
 
 Ein Zitat des Künstlers selbst beschreibt sehr gut, was der Body of Knowledge und die Universität ausmacht: 
@@ -8,12 +9,10 @@ Ein Zitat des Künstlers selbst beschreibt sehr gut, was der Body of Knowledge u
 _„Unser Körper ist der Sitz des Geistes. Die Universität ist eine Ausweitung unseres Körpers. 
 Ein Versammlungsort, an dem sich Menschen und Ideen, Tradition und Zukunft zu Zwiegesprächen treffen und das Netz menschlichen Wissens weben.“_ 
 Jaume Plensa [(Quelle)](https://www.kunst-im-oeffentlichen-raum-frankfurt.de/de/page28.html?id=433)
-
+ 
 Weitere Skulpturen von Jaume Plensa findest Du [Hier.](https://jaumeplensa.com/works-and-projects/sculpture)
 
 {% include Body_of_Knowledge_youtubePlayer.html id="f-ESeIvn5ZU?start=1290" %}
-
-Eine Reihe von Bildern und Zeichen, deren Wortlaut durch Aneinanderfügung und Abstraktion einen oder mehrere neue Begriffe ergeben, die mit den Bildern in keinem sachlichen Zusammenhang stehen. Eine Reihe von Bildern und Zeichen, deren Wortlaut durch Aneinanderfügung und Abstraktion einen oder mehrere neue Begriffe ergeben, die mit den Bildern in keinem sachlichen Zusammenhang stehen. Dabei kann der Austausch, der Wegfall oder die Hinzufügung einzelner Buchstaben verfügt werden.
 
 Lust auf ein kleines Bilderrätsel? Ein Rebus besteht aus mehreren Bildern oder Zeichen (hier Emojis). Die Wörter, die durch die Emojis repräsentiert werden, müssen aneinandergefügt werden, dabei müssen Buchstaben ausgetauscht, entfernt oder hinzugefügt werden. Auf diesem Weg entsteht einer neuer Begriff. 
 Nutze die Hinweise und überprüfe Deine Antwort indem Du sie in den zugehörigen Kasten eingibst. 
@@ -45,6 +44,9 @@ Nutze die Hinweise und überprüfe Deine Antwort indem Du sie in den zugehörige
 </form>
 
 Hast Du Lust,auch einen Rubus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
+
+### Nächste Station: _WORT//WORT//WORT_   
+<img src="Pose2.svg" width="200">
 
 <script>
 function checkAnswers1() {
