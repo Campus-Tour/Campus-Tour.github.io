@@ -13,7 +13,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 <h3>Write here your answer...</h3>
 <br>
 <form name="f1">
-  Your answer: <input type="password" name="studentAnswer" size="20">
+  Your answer: <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers()">
