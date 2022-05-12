@@ -4,7 +4,7 @@
 
 Hier: Exposé von Veronika Duma folgt ende Juni
 
-Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk)
+Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) 
 
 Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
@@ -32,7 +32,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 </form>
 
-<img src="Pose2.svg" width="200">
+_WORT//WORT//WORT_   <img src="Pose2.svg" width="200">
 
 
 <script>
