@@ -1,4 +1,4 @@
-# Wollheim Pavillion <img src="Pose1.svg" width="100">
+# Wollheim Pavillion <img src="Pose3.svg" width="100">
 
 <img src="Wollheim_Bild1.jpg" width="600">
 
