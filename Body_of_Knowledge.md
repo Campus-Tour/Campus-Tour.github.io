@@ -2,7 +2,7 @@
 
 Eindrucksvoll, oder? Vor die siehst Du den __Body of Knowledge__ des spanischen Künstlers Jaume Plensa.         
 
-<img src="Pose1.svg" width="80">
+<img src="Pose1.svg" width="200">
 
 Ganze 8 Meter ist der Body of Knowledge hoch und setzt sich zusammen aus einzelnen Buchstaben acht verschiedener Sprachen. 
 
