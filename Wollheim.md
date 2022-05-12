@@ -6,7 +6,7 @@ Hier: Exposé von Veronika Duma folgt ende Juni
 
 Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen überprüfen kannst. Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
 <form name="f3">
-  Lösungswort (GROßBUCHSTABEN): <input type="text" name="studentAnswer" size="20">
+  Lösungswort (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers3()">
