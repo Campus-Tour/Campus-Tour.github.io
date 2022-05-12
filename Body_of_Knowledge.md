@@ -15,5 +15,7 @@ Weitere Skulpturen von Jaume Plensa findest Du [Hier.](https://jaumeplensa.com/w
 
 Lust auf ein kleines Bilderrätsel?
 
+<img src="Body_of_Knowledge_rebus.svg" width="600">
+
 
 
