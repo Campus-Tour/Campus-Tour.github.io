@@ -9,6 +9,6 @@ Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk)
 
 Für weitere Informationen klicke [hier](http://www.wollheim-memorial.de/de/home); [hier](https://www.fritz-bauer-institut.de)
 
+<img src="Bild2.jpg" width="200"> <img src="Bild3.jpg" width="200">
 
-![Frage1](Bild2.jpg) ![Frage2](Bild3.jpg)
 
