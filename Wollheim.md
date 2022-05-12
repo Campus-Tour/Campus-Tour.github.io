@@ -10,19 +10,7 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 <img src="Wollheim_Bild2.jpg" width="200">
 
-
-<input pattern="Hallo" type="text" name="" value="">
-
-<img src="Wollheim_Bild3.jpg" width="200">
-
-
-<script>
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
-
-
-
-<h3>Write here your answer...</h3>
+<h3>Wer ist auf diesem Bild zu sehen?</h3>
 <br>
 <form name="f1">
   Your answer: <input type="password" name="studentAnswer" size="20">
@@ -30,6 +18,9 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
   <br>
   <input type="button" value="Check" onClick="checkAnswers()">
 </form>
+
+<img src="Wollheim_Bild3.jpg" width="200">
+
 
 <script>
 function checkAnswers() {
