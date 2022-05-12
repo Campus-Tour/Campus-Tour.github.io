@@ -32,7 +32,8 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillions ](http:
 
 </form>
 
-_WORT//WORT//WORT_   <img src="Pose2.svg" width="200">
+### Nächste Station: _WORT//WORT//WORT_   
+<img src="Pose2.svg" width="200">
 
 
 <script>
