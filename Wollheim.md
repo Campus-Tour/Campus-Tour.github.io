@@ -13,8 +13,6 @@ Lust auf ein [Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk)
 
 </form>
 
-<iframe src="https://www.xwords-generator.de/de/solve/dshbk"><a href="https://www.xwords-generator.de/de/solve/dshbk">Kreuzworträtsel online lösen</a> width="700" </iframe>
-
 Weitere Information findest du auf der [Webseite des Wollheim Pavillons ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
 ### Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst.
