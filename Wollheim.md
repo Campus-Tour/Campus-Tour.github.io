@@ -84,7 +84,7 @@ function checkAnswers2() {
 function checkAnswers3() {
 // document.$formName.$inputName
   Student_answer = document.f3.studentAnswer.value
-  Teacher_answer = "XXXXXX"
+  Teacher_answer = "ERINNERN"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
     alert("Leider keine Übereinstimmung.");
