@@ -4,7 +4,7 @@
 
 Hier: Exposé von Veronika Duma folgt Ende Juni
 
-Lust auf ein [großes Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) (Alternativ kannst du auch ein [kleineres Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/7kqan) lösen). Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen überprüfen kannst. Die teils dazu nötigen Informationen findest Du auf den Bildschirmen im Wollheim-Pavillon oder [online](http://www.wollheim-memorial.de/de/home). Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
+Lust auf ein [großes Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) (Alternativ kannst du auch ein [kleineres Kreuzworträtsel](https://www.xwords-generator.de/de/solve/7kqan) lösen). Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen überprüfen kannst. Die teils dazu nötigen Informationen findest Du auf den Bildschirmen im Wollheim-Pavillon oder [online](http://www.wollheim-memorial.de/de/home). Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
 <form name="f3">
   Lösungswort (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
   <br>
