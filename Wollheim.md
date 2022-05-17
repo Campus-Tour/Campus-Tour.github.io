@@ -5,8 +5,16 @@
 Hier: Exposé von Veronika Duma folgt Ende Juni
 
 Lust auf ein [großes Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) (Alternativ kannst du auch ein [kleineres Kreuzworträtsel](https://www.xwords-generator.de/de/solve/7kqan) lösen). Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen überprüfen kannst. Die teils dazu nötigen Informationen findest Du auf den Bildschirmen im Wollheim-Pavillon oder [online](http://www.wollheim-memorial.de/de/home). Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
+<form name="f4">
+  Lösungswort für das große Rätsel (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers4()">
+
+</form>
+
 <form name="f3">
-  Lösungswort (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
+  Lösungswort für das kleine Rätsel (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
   <br>
   <br>
   <input type="button" value="Check" onClick="checkAnswers3()">
@@ -85,6 +93,24 @@ function checkAnswers3() {
 // document.$formName.$inputName
   Student_answer = document.f3.studentAnswer.value
   Teacher_answer = "ERINNERN"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Leider keine Übereinstimmung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Du hast das Lösungswort gefunden!");
+  } else {
+    alert("Leider keine Übereinstimmung.");
+  }
+
+}
+  
+function checkAnswers4() {
+// document.$formName.$inputName
+  Student_answer = document.f4.studentAnswer.value
+  Teacher_answer = "GEDENKEN"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
     alert("Leider keine Übereinstimmung.");
