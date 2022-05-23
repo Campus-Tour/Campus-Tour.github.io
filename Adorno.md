@@ -1,10 +1,12 @@
 # Adornos Schreibtisch
 
-<img src="Adorno_ProfSaar.jpg" width="600">
+<img src="Adorno_ProfSaar.jpg" width="400">
 
 Prof. Dr. Martin Saar ist seit 2017 Professor für Sozialphilosophie an der 
 Goethe-Universität und Mitglied in Kollegium und Institutsrat am Institut 
-für Sozialforschung. Er wirkt mit im Forschungsverbund „Die 
+für Sozialforschung. 
+
+Er wirkt mit im Forschungsverbund „Die 
 Herausbildung normativer Ordnungen“ und in der Forschungsinitiative 
 „Vertrauen im Konflikt. Politisches Zusammenleben unter Bedingungen 
 der Ungewissheit“. Seine Arbeitsschwerpunkte beziehen sich auf die 
@@ -23,7 +25,7 @@ Oliver Flügel-Martinsen und Franziska Martinsen).
     <figcaption>Interview mit Prof. Dr. Martin Saar:</figcaption>
     <audio
         controls
-        src="Adorno_interview.mp3">
+        src="Adorno_Interview.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
