@@ -38,6 +38,6 @@ Buchstaben des Wortes an und wenn es richtig ist, wird es in der Liste der
 gesuchten Wörter durchgestrichen. Viel Spaß!
 
 Mehr zu dem Adorno-Denkmal, findest du [hier](https://www.uni-frankfurt.de/66990032/adorno-denkmal). Dort werden weiterführende Literaturangaben gemacht.
-Und falls du gerne mehr zu Adornos Leben erfahren möchtest, klicke [hier](https://www.hdg.de/lemo/biografie/theodor-w-adorno.html). Eine Darstellung seine Theorie findet sich ausführlich auf der Website der [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/adorno/). Viel Spaß beim Stöbern!
+Und falls du gerne mehr zu Adornos Leben erfahren möchtest, klicke [hier](https://www.hdg.de/lemo/biografie/theodor-w-adorno.html). Eine Darstellung seiner Theorie findet sich ausführlich auf der Website der [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/adorno/). Viel Spaß beim Stöbern!
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
