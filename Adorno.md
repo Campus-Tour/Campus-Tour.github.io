@@ -1,4 +1,4 @@
-# Adornos Schreibtisch <img src="Pose1.svg" width="70">
+# Adornos Schreibtisch 
 
 <img src="Adorno_ProfSaar.jpg" width="400">
 
@@ -12,7 +12,7 @@ Herausbildung normativer Ordnungen“ und in der Forschungsinitiative
 der Ungewissheit“. Seine Arbeitsschwerpunkte beziehen sich auf die 
 Politische Ideengeschichte der frühen Neuzeit, die Geschichte und 
 Gegenwart der Kritischen Theorie und die neuere französische 
-Philosophie, auf Fragen der Macht, der Demokratie und des Subjekts. 
+Philosophie, auf Fragen der Macht, der Demokratie und des Subjekts. <img align="right" src="Pose1.svg"> 
 Wichtigste Veröffentlichungen: Genealogie als Kritik. Geschichte und 
 Theorie des Subjekts nach Nietzsche und Foucault, Frankfurt am 
 Main/New York 2007; Sozialphilosophie und Kritik, Frankfurt am Main 2009
