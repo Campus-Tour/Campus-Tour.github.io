@@ -1,5 +1,6 @@
 # Adornos Schreibtisch 
 Vor dir siehst du das Adorno-Denkmal, das anlässlich zum 100. Geburtstags 2003 in Bockenheim eingeweiht wurde. Seit 2016 steht es hier auf dem Campus Westend... Einleitung zum Interview, bzw. was gleich folgt.
+
 <img src="Adorno_ProfSaar.jpg" width="400">
 
 Prof. Dr. Martin Saar ist seit 2017 Professor für Sozialphilosophie an der 
