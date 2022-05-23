@@ -1,4 +1,4 @@
-# Adornos Schreibtisch
+# Adornos Schreibtisch <img src="Pose1.svg" width="400">
 
 <img src="Adorno_ProfSaar.jpg" width="400">
 
