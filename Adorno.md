@@ -32,10 +32,11 @@ Oliver Flügel-Martinsen und Franziska Martinsen).
             <code>audio</code> element.
     </audio>
 </figure>
+_Interview durchgeführt von Sophia Corell_
 
 Hast du anschließend Lust auf ein [Buchstabenrätsel?](https://puzzel.org/de/wordseeker/play?p=-N2WQ-WxgjMHpBN8dCs8) Es gilt, 10 Begriffe 
 rund um Adorno in dem Buchstabenwirrwarr zu finden. Sie verstecken sich
-waagerecht, senkrecht und queer. Klicke einfach den ersten und letzten 
+waagerecht, senkrecht und diagonal. Klicke einfach den ersten und letzten 
 Buchstaben des Wortes an und wenn es richtig ist, wird es in der Liste der 
 gesuchten Wörter durchgestrichen. Viel Spaß!
 
