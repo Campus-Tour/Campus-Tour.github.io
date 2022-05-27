@@ -12,3 +12,5 @@ Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und d
 [Wollheim Pavillion](Wollheim.md)
 
 [Alois Alzheimer-Gedenktafel](Alzheimer.md)
+
+[Campus Garten](CampusGarten.md)
