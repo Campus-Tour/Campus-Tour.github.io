@@ -1,5 +1,7 @@
 ## Body of Knowledge
-
+<p class="aligncenter">
+    <img src="Logo.png" alt="centered image" width="400" />
+</p>
 Eindrucksvoll, oder? Vor dir siehst Du den __Body of Knowledge__ des spanischen Künstlers Jaume Plensa.         
 
 <img src="Pose1.svg" width="200">
