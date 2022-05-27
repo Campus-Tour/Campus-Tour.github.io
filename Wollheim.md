@@ -1,5 +1,7 @@
 # Wollheim Pavillon
-
+<p class="aligncenter">
+    <img src="Logo.png" alt="centered image" width="400" />
+</p>
 <img src="Wollheim_Bild1.jpg" width="600">
 
 Hier: Exposé von Veronika Duma folgt Ende Juni
