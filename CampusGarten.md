@@ -2,6 +2,7 @@
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
 # Campus Garten
+
 <figure>
     <figcaption>Interview mit David Deltow zum Campus Garten:</figcaption>
     <audio
