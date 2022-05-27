@@ -18,9 +18,8 @@ Demenz betroffen ist?
 <img src="Alzheimer.jpg" width="300">
 
 * auf anatomischer Ebene zwei Mechanismen (beta Amyloid-Plaques & TAU-Fibrillen) dazu beitragen, dass die Alzheimer-typischen Symptome 
+Gedächtnisstörungen, Verwirrtheit, Sprachstörungen auftreten? Hier kannst du eine 3D-Animation dazu anschauen: {% include Body_of_Knowledge_youtubePlayer.html id="paquj8hSdpc" %}
 Gedächtnisstörungen, Verwirrtheit, Sprachstörungen auftreten? Hier kannst du eine 3D-Animation dazu anschauen: Alzheimer: Eine 
-dreidimensionale Entdeckungsreise - YouTube 
-{% include Body_of_Knowledge_youtubePlayer.html id="paquj8hSdpc" %}
 
 * dass diese Veränderungen im Hippocampus – dem Sitz des Gedächtnisses – zuerst auftreten und deswegen Gedächtnisprobleme bereits im Frühstadium von Alzheimer auftreten? 
 
