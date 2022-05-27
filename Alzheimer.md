@@ -1,10 +1,8 @@
 # Alois Alzheimer-Gedenktafel 
 
 
-Diese Gedenktafel erinnert an Alois Alzheimer. Er stieß erstmalig auf anatomische 
-Veränderungen im Gehirn einer Patientin, welche typisch für die später nach ihm benannte 
-Erkrankung waren: Plaques, Fibrillen und ein verringertes Gehirnvolumen. [Hier](https://www.uni-frankfurt.de/66990042/Gedenktafel_für_Alois_Alzheimer) auf der Uni-
-Website findest du noch weitere Informationen zu Alois Alzheimer.
+Diese Gedenktafel erinnert an Alois Alzheimer. <img align="right" src="Pose1_1.svg" width="100"> 
+Er stieß erstmalig auf anatomische Veränderungen im Gehirn einer Patientin, welche typisch für die später nach ihm benannte Erkrankung waren: Plaques, Fibrillen und ein verringertes Gehirnvolumen. [Hier](https://www.uni-frankfurt.de/66990042/Gedenktafel_für_Alois_Alzheimer) auf der Uni-Website findest du noch weitere Informationen zu Alois Alzheimer.
 
 Aber was weiß man heute über die Alzheimer-Krankheit - und was nicht? Hier findest du ein 
 paar spannende Informationen dazu.
