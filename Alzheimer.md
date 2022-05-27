@@ -32,7 +32,7 @@ dreidimensionale Entdeckungsreise - YouTube
  
   * Manche Forscher:innen gehen davon aus, dass chronische Viruserkrankungen wie bspw. Hepatitis C, Bakterien oder Pilze die Entstehung von Alzheimer auslösen könnten.  
 
-* Die Rolle bestimmter Metalle wie z. B. Aluminium, die durch Nahrung, 
+  * Die Rolle bestimmter Metalle wie z. B. Aluminium, die durch Nahrung, 
 Kosmetik, etc. aufgenommen werden, wird ebenfalls weiterhin diskutiert, 
 konnte bislang aber nicht bestätigt werden. 
 
