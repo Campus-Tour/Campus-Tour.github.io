@@ -13,5 +13,20 @@
 </figure>
 _Interview durchgeführt von Hanna Barner_
 
+Die Bilder unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei
+verschiedene Bedeutungen haben. Eine Bedeutung ist auf dem Bild zu
+sehen dargestellt, die andere bezieht sich auf Dinge, die man in einem
+Garten finden kann. Die roten Buchstaben geben dann den zweiten Teil
+vom Lösungswort. 
+
+🏦 _ _ _ _
+
+🌍 _ _ _ _
+
+🎀 _ _ _ _ _ _
+
+📃 _ _ _ _ _
+
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
+
