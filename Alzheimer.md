@@ -15,7 +15,7 @@ paar spannende Informationen dazu.
 Demenz betroffen ist?  
 
 * es verschiedene Demenz-Formen gibt, s. Abbildung:
-<img src="Wollheim_Bild1.jpg" width="600">
+<img src="Alzheimer.jpg" width="300">
 
 * auf anatomischer Ebene zwei Mechanismen (beta Amyloid-Plaques & TAU-Fibrillen) dazu beitragen, dass die Alzheimer-typischen Symptome 
 Gedächtnisstörungen, Verwirrtheit, Sprachstörungen auftreten? Hier kannst du eine 3D-Animation dazu anschauen: Alzheimer: Eine 
