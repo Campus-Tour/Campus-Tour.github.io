@@ -1,4 +1,6 @@
 # Campus Garten
+<img src="Logo.png" alt="Paris" class="center">
+
 
 <figure>
     <figcaption>Interview mit David Deltow zum Campus Garten:</figcaption>
