@@ -1,6 +1,6 @@
 # Campus Garten
 <p class="aligncenter">
-    <img src="Logo.png" alt="centered image" width="300" />
+    <img src="Logo.png" alt="centered image" width="400" />
 </p>
 <figure>
     <figcaption>Interview mit David Deltow zum Campus Garten:</figcaption>
