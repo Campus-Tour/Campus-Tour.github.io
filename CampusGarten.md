@@ -1,5 +1,5 @@
 
-<img src="Logo.png" alt="Paris" class="center" width="300"> 
+<img src="Logo.png" width="300"> 
 # Campus Garten
 <figure>
     <figcaption>Interview mit David Deltow zum Campus Garten:</figcaption>
