@@ -39,7 +39,13 @@ Alter weiterhin gefordert wird? Beispielsweise durch das Lernen neuer Informatio
 (z.B. eine neue Sprache), Gedächtnisübungen, soziale Aktivitäten, gesunde 
 Ernährung, körperliche Aktivität, usw. 
  
- 
+Finde nun heraus, welche der folgenden Aussagen richtig ist. Selbst wenn du vergessen haben solltest, was du soeben gelesen hast: Alzheimer ist nicht die einzige mögliche Ursache für Gedächtnisverlust :) 
+Die Zahl vor der richtigen Aussage gibt die Position des Lösungsbuchstaben im Alphabet an.
+
+### (ZAHL_FALSCH) Alzheimer kann geheilt werden.
+### (ZAHL_RICHTIG) Die Ursache für die Entstehung von Alzheimer ist unbekannt.
+
+
 
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
