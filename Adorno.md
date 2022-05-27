@@ -1,4 +1,7 @@
 # Adornos Schreibtisch 
+<p class="aligncenter">
+    <img src="Logo.png" alt="centered image" width="400" />
+</p>
 Vor dir siehst du das Adorno-Denkmal, das anlässlich zum 100. Geburtstag von Adorno 2003 in Bockenheim eingeweiht wurde. Seit 2016 steht es hier auf dem Campus Westend. Um mehr über Adorno zu erfahren und einen Einstieg in sein Denken zu erhalten, haben wir für dich einen Adorno-Kenner, Prof. Dr. Martin Saar (hier unten auf dem Foto zu sehen) interviewt. Hör gerne rein! 
 
 
