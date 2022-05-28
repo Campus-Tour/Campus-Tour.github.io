@@ -17,10 +17,10 @@ Im Interview hat uns David Delto von Goethes Green Office unter anderem erzählt
 _Interview durchgeführt von Hanna Barner_
 
 Hier siehst du den Campus Garten von oben. Wir haben 5 Buchstaben darin versteckt, die die erste Hälfte des Lösungswortes ergeben. Findest du sie?
-<img src="CampusGarten2.jpg" width="400">
+<img src="CampusGarten3.jpg" width="400">
 
 Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei verschiedene Bedeutungen haben. Eine Bedeutung ist auf dem Bild dargestellt, die andere bezieht sich auf Dinge, die man in einem Garten finden kann. Die roten Buchstaben geben dann den zweiten Teil vom Lösungswort. 
-<img src="Campusgarten4.jpg" width="200">
+<img src="Campusgarten4.png" width="200">
 
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
