@@ -5,7 +5,7 @@
 
 ## Schön, dass du den Campus-Garten gefunden hast!
 
-<img src="CampusGarten2.jpg" width="170"> <img src="Campusgarten1.jpg" width="170"> 
+<img src="CampusGarten2.jpg" width="155"> <img src="Campusgarten1.jpg" width="155"> 
 <br>
 Hier bauen Studierende und Anwohner:innen gemeinsam nach den Prinzipien der Permakultur Gemüse an.
 <br>
