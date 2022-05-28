@@ -2,8 +2,9 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
-<img src="Campusgarten1.jpg" width="200">
-Schön, dass du den Campus-Garten gefunden hast! Hier bauen Studierende und Anwohner:innen gemeinsam nach den Prinzipien der Permakultur Gemüse an.<img align="right" src="CampusGarten2.jpg" width="200"> 
+
+Schön, dass du den Campus-Garten gefunden hast! <img align="right" src="Campusgarten1.jpg" width="200">  
+Hier bauen Studierende und Anwohner:innen gemeinsam nach den Prinzipien der Permakultur Gemüse an.<img align="right" src="CampusGarten2.jpg" width="200">
 
 Im Interview hat uns David Delto von Goethes Green Office unter anderem erzählt, was es dort alles zu entdecken gibt.
 <figure>
