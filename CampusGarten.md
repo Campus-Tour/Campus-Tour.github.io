@@ -25,6 +25,33 @@ Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei ver
 
 <img src="Campusgarten4.png" width="300">
 
+<form name="f1">
+ Lösungswort: <input type="text" name="studentAnswer" size="20">
+  <br>
+  <br>
+  <input type="button" value="Check" onClick="checkAnswers1()">
+
+</form>
+
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
 
+<script>
+function checkAnswers1() {
+// document.$formName.$inputName
+  Student_answer = document.f1.studentAnswer.value
+  Teacher_answer = "Gemüsebeete"
+
+  if (Student_answer.length == 0 || Teacher_answer.length == 0) {
+    alert("Bitte gebe das Lösungswort ein. Achte dabei auf Groß- und Kleinschreibung.");
+    return false;
+  }
+
+  if (Student_answer == Teacher_answer) {
+    alert("Super! Deine Antwort ist korrekt!");
+  } else {
+    alert("Falsche Antwort. Achte auf Groß- und Kleinschreibung.");
+  }
+
+}
+</script>
