@@ -41,7 +41,8 @@ Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei ver
 
 Hier findest du weitere Informationen zu den am Garten beteiligten Gruppen: 
 [www.goethesgreenoffice.de](http://www.goethesgreenoffice.de/2021/10/13/permakultur-campus-gaerten-uni-frankfurt/)
-[www.gemueseheldinnen-frankfurt.de](https://gemueseheldinnen-frankfurt.de/permakulturinseln/)
+[www.gemueseheldinnen-frankfurt.de](https://gemueseheldinnen-frankfurt.de/permakulturinseln/).
+
 Du hast Lust, selber einen Permakultur garten anzulegen? Hier gibt es 9 praktische Tipps dazu:[www.wurzelwerk.net](https://www.wurzelwerk.net/2020/10/28/permakultur-garten/). 
 Und auch in der Unibibliothek findest du ein Ebook dazu: [Handbuch Permakultur : Klug planen und nachhaltig gärtnern / Ulrike Windsperger](https://ubffm.hds.hebis.de/Record/HEB486052583)
 
