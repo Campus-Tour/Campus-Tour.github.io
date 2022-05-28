@@ -17,8 +17,7 @@ Im Interview hat uns David Delto von Goethes Green Office unter anderem erzählt
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <figure>
     <figcaption>Interview mit David Delto zum Campus Garten:</figcaption>
     <audio
