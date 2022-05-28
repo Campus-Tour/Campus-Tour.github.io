@@ -5,7 +5,7 @@
 
 ## Schön, dass du den Campus-Garten gefunden hast!
 
-<img src="CampusGarten2.jpg" width="150"> <img src="Campusgarten1.jpg" width="150"> 
+<img src="CampusGarten2.jpg" width="170"> <img src="Campusgarten1.jpg" width="170"> 
 <br>
 Hier bauen Studierende und Anwohner:innen gemeinsam nach den Prinzipien der Permakultur Gemüse an.
 <br>
@@ -29,7 +29,7 @@ Hier siehst du den Campus Garten von oben. Wir haben 5 Buchstaben darin versteck
 
 Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei verschiedene Bedeutungen haben. Eine Bedeutung ist auf dem Bild dargestellt, die andere bezieht sich auf Dinge, die man in einem Garten finden kann. Die roten Buchstaben geben dann den zweiten Teil vom Lösungswort. 
 
-<img src="Campusgarten4.png" width="300">
+<img src="Campusgarten4.png" width="400">
 
 <form name="f1">
  Lösungswort: <input type="text" name="studentAnswer" size="20">
