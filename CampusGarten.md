@@ -52,7 +52,7 @@ Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei ver
 function checkAnswers1() {
 // document.$formName.$inputName
   Student_answer = document.f1.studentAnswer.value
-  Teacher_answer = "Gemüsebeete"
+  Teacher_answer = "Hügelbeete"
 
   if (Student_answer.length == 0 || Teacher_answer.length == 0) {
     alert("Bitte gebe das Lösungswort ein. Achte dabei auf Groß- und Kleinschreibung.");
