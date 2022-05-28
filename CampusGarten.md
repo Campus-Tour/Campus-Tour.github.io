@@ -12,9 +12,6 @@ Hier bauen Studierende und Anwohner:innen gemeinsam nach den Prinzipien der Perm
 Im Interview hat uns David Delto von Goethes Green Office unter anderem erzählt, was es dort alles zu entdecken gibt.
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <figure>
     <figcaption>Interview mit David Delto zum Campus Garten:</figcaption>
