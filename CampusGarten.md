@@ -51,11 +51,11 @@ Und auch in der Unibibliothek findest du ein Ebook dazu: [Handbuch Permakultur :
 <img src="Pose2.svg" width="200">
 
 ### Quellen der Cliparts:
-1) Aha-Soft/ Shutterstock.com
-2) Word Clipart
-3) Oakview Studios/ Shutterstock.com
-4) Word Clipart
-5) AVIcon/ Shutterstock.com
+1. Aha-Soft/ Shutterstock.com
+2. Word Clipart
+3. Oakview Studios/ Shutterstock.com
+4. Word Clipart
+5. AVIcon/ Shutterstock.com
 
 <script>
 function checkAnswers1() {
