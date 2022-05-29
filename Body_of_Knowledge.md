@@ -19,7 +19,7 @@ Weitere Skulpturen von Jaume Plensa findest Du [Hier.](https://jaumeplensa.com/w
 Lust auf ein kleines Bilderrätsel? Ein Rebus besteht aus mehreren Bildern oder Zeichen (hier Emojis). Die Begriffe, die durch die Emojis repräsentiert werden, müssen aneinandergefügt werden, dabei müssen Buchstaben ausgetauscht, entfernt oder hinzugefügt werden. Auf diesem Weg entsteht ein neuer Begriff. 
 Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörigen Kasten eingibst. 
 
-<img src="Body_of_Knowledge_rebus.jpeg" width="600">
+<img src="Body_of_Knowledge_rebus.jpeg" width="350">
 
 <form name="f1">
   Wort 1: <input type="text" name="studentAnswer" size="20">
