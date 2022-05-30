@@ -2,8 +2,7 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
-Schön, dass Du da bist! Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und die Menschen des Campus' erfahren? Wenn dem so ist, dann brauchst Du nur einen QR Code Scanner und los gehts. 
-
+Schön, dass Du da bist! Du möchtest deinen Campus besser kennenlernen? Etwas über die Geschichte und die Menschen des Campus' erfahren? Wenn dem so ist, dann brauchst Du nur einen QR Code Scanner und los gehts.  
 
 Wir, das sind Deutschlandstipendiatinnen und -stipendiaten des Jahrgangs 2021/2022, haben uns diese Tour über den Campus Westend als Projekt überlegt und nun kannst Du die jeweiligen Stationen quer über den Campus ablaufen und die ein oder andere Neuheit entdecken! Je nach Zeit und Lust kannst du nur ein paar Stationen abgehen oder die gesamte Tour laufen – alleine oder mit Freunden!
 
