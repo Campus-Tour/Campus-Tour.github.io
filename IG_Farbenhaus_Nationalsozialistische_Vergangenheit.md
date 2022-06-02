@@ -1,4 +1,6 @@
-# Nationalsozialistische Vergangenheit
+# IG Farbenhaus
+
+## Nationalsozialistische Vergangenheit
 
 Für Dich geht es nun also in den linken Flügel des Gebäudes. 
 Siehst Du schon einen Teil der Dauerausstellung „Von der Grüneburg zum Campus Westend“ an der Wand hängen? 
