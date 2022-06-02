@@ -38,7 +38,7 @@ werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächst
 
 [rechts: Paternosteraufzug](IG_Farbenhaus_Paternosteraufzug.md)
 
-[Cafe](IG_Farbenhaus_Cafe.md)
+[Cafe](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
 
 
 
