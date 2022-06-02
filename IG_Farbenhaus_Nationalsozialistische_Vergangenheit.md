@@ -1,5 +1,9 @@
 # IG Farbenhaus
 
+<p class="aligncenter">
+    <img src="Logo.png" alt="centered image" width="400" />
+</p>
+
 ## Nationalsozialistische Vergangenheit
 
 Für Dich geht es nun also in den linken Flügel des Gebäudes. 
