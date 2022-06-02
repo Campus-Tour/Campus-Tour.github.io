@@ -7,7 +7,7 @@
 ## Nationalsozialistische Vergangenheit
 
 Für Dich geht es nun also in den linken Flügel des Gebäudes. 
-Siehst Du schon einen Teil der Dauerausstellung „Von der Grüneburg zum Campus Westend“ an der Wand hängen? 
+Siehst Du schon einen Teil der Dauerausstellung „Von der Grüneburg zum Campus Westend“ an der Wand hängen? <img align="right" src="Pose1_1.svg" width="100"> 
 Für eine chronologische Begehung der Ausstellung wird zwar empfohlen, den Rundgang im 5. Stock (Abschnitt Q4) 
 zu beginnen und von dort jeweils die folgende Station auf dem nächsttieferen Stockwerk anzulaufen, jedoch 
 erfordert die Auseinandersetzung mit der komplexen Historie viel Zeit, sodass wir im Rahmen der Campus Tour 
