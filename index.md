@@ -24,3 +24,5 @@ Schnapp dir deine Freunde und los gehts!
 [Alois Alzheimer-Gedenktafel](Alzheimer.md)
 
 [Campus Garten](CampusGarten.md)
+
+[IG Farbenhaus](IG_Farbenhaus.md)
