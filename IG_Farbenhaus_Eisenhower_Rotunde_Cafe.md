@@ -1,4 +1,10 @@
-# Eisenhower Rotunde
+# IG Farbenhaus
+
+## Eisenhower Rotunde
+
+<p class="aligncenter">
+    <img src="Logo.png" alt="centered image" width="400" />
+</p>
 
 Du hast Lust auf einen Kaffee oder einfach ein kleines Päuschen? Dann setze dich doch in die ansehnliche Eisenhower-Rotunde, auf die Du schon aus dem Eingangsfoyer einen Blick werfen konntest. Diese ist nicht erst mit dem Einzug der Universität in das Gebäude zu einem Ort des Verweilens und Schlemmens geworden: Nach dem Ende des Zweiten Weltkriegs, als der Verwaltungsbau zum Hauptsitz der amerikanischen Streitkräfte ernannt worden ist, diente die Rotunde als Snackbar für Soldaten und Offiziere und wurde entsprechend umgebaut. Der Name „Eisenhower-Rotunde“ ist eine Hommage an den ehemaligen Oberkommandierenden General und späteren US-Präsidenten Dwight D. Eisenhower, der als erster General nach dem Zweiten Weltkrieg im IG-Farben-Gebäude residierte [1].
 
