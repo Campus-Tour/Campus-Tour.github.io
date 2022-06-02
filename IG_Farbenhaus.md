@@ -34,8 +34,9 @@ PS: Falls Deine Kraftreserven schon etwas ausgelaugt sind, dann empfehlen wir Di
 zumindest einen Blick auf die nationalsozialistische Vergangenheit des Gebäudes zu 
 werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächste Rätsel...
 
-[1. Nationalsozialistische Vergangenheit](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)
-
+[links: Nationalsozialistische Vergangenheit](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)
+[rechts: Paternosteraufzug](IG_Farbenhaus_Paternosteraufzug.md)
+[Cafe](IG_Farbenhaus_Cafe.md)
 
 
 
