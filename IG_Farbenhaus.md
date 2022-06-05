@@ -5,13 +5,13 @@
 
 Nun bist Du am IG-Farben-Haus angekommen. Zunächst einmal solltest Du in das
 Gebäude gehen... bis Du in der Eingangshalle mit Blick auf die Eisenhower-Rotunde, dem verglasten Rundpavillon, angekommen bist. Das IG-Farben-Haus
-ist das älteste und gleichermaßen geschichtsträchtigste Gebäude des Campus. <img align="right" src="Pose3_1.svg" width="100"> 
+ist das älteste und gleichermaßen geschichtsträchtigste Gebäude des Campus.
 Es ist von einer solch erinnerungspolitischen Relevanz, dass es eine studentische
 Initiative gibt, die die Umbenennung des gesamten Campus in den „IG-Farben-
 Campus“ fordert. Trotz der bewegten Historie des Gebäudes wird es seit 2001 im
 Rahmen der Universität zu einem Ort der Offenheit, des Austausches und der
 Wissenschaft   umstrukturiert   und   ist   heute   das   Domizil   der
-geisteswissenschaftlichen Fachbereiche der Universität.
+geisteswissenschaftlichen Fachbereiche der Universität. <img align="right" src="Pose3_1.svg" width="100"> 
 Das Gebäude besteht aus sechs Flügeln, die durch einen leicht geschwungenen
 Flur miteinander verbunden sind (siehe unten). Die äußeren Flügel (Q1 & Q6)
 beherbergen ausschließlich die Institutsbibliotheken. In allen anderen Teilen des
