@@ -32,8 +32,8 @@ durften. Die ganze Geschichte dazu kannst Du mir [hier](https://www.faz.net/aktu
 paternoster-drehen-sich-weiter-13619797.html) lesen. 
 
 
-Oder schau gerne hier vorbei: https://www.youtube.com/watch?v=1z7rp5OXFnU 
-(Video auf Website einblenden)
+Oder schau gerne hier: 
+{% include Body_of_Knowledge_youtubePlayer.html id="v=1z7rp5OXFnU" %}
 
 Der NDR hat einen kleinen Film über den „Irrsinn“ gedreht. Da sich 2011 bei der 
 Benutzung des Paternosters zwei Unfälle ereigneten und 2015 das Gesetz zur 
