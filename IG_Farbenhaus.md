@@ -35,7 +35,7 @@ werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächst
 
 [links: Nationalsozialistische Vergangenheit](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)
 
-[rechts: Paternosteraufzug](IG_Farbenhaus_Paternosteraufzug.md)
+[rechts: Paternosteraufzug](IG_Farbenhaus_Paternoster.md)
 
 [geradeaus: Eisenhower-Rotunde Café](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
 
