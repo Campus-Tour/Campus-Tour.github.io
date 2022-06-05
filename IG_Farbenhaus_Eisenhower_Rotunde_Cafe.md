@@ -10,7 +10,10 @@ Du hast Lust auf einen Kaffee oder einfach ein kleines Päuschen? Dann setze dic
 
 <br>
 
-Aufgrund des verglasten Pavillon erübrigt sich von hier ein sagenhafter Panoramablick in Richtung Casino. Von hier aus kannst Du Dir überlegen, ob Du noch zur Dauerausstellung „Von der Grüneburg bis zum Campus Westend“ möchtest, oder auch zum Paternoster-Aufzug. Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+Aufgrund des verglasten Pavillon erübrigt sich von hier ein sagenhafter Panoramablick in Richtung Casino. Von hier aus kannst Du Dir überlegen, ob Du noch zur [Dauerausstellung „Von der Grüneburg bis zum Campus Westend“](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md) möchtest, oder auch zum [Paternosteraufzug](IG_Farbenhaus_Paternoster.md). Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+
+### Nächste Station: _WORT//WORT//WORT_   
+<img src="Pose2.svg" width="200">
 
 ### Quellen
 [1] Drummer, Heike und Jutta Zwilling (2007): Von der Grüneburg bis Campus Westend. Die Geschichte des IG Farben-Hauses. Frankfurt am Main: Präsidium der Johann-Wolfgang-Goethe-Universität.
