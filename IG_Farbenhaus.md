@@ -18,7 +18,7 @@ beherbergen ausschließlich die Institutsbibliotheken. In allen anderen Teilen d
 Gebäudes,   einschließlich   des   östlichen   Nebengebäudes   (NG),   befinden   sich
 Seminarräume, Dienstzimmer, Sekretariate und Konferenzsäle.
 
-<img src="IG_Farben_Abb1.jpg" width="200">
+<img src="IG_Farben_Abb1.jpg" width="400">
 
 Nun hast Du dieses eindrucksvolle Gebäude vor Dir und die Wahl: 
 Möchtest Du über die Geschichte des Hauses sofort mehr erfahren, 
