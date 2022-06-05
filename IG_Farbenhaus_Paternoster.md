@@ -51,7 +51,8 @@ sein wird!
 Nach deinem Ritt kannst Du entscheiden, wie es weitergeht… Möchtest Du noch zur [geschichtlichen Dauerausstellung](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)? Oder für einen kleinen Snack in die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)?
 Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
                                                                                  
-                                                                           
+### Nächste Station: _WORT//WORT//WORT_   
+<img src="Pose2.svg" width="200">                                                                           
 
                                                                                                                                                               
 ### Quellen
