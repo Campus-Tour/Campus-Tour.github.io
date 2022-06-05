@@ -17,4 +17,4 @@ Aufgrund des verglasten Pavillon erübrigt sich von hier ein sagenhafter Panoram
 <img src="Pose2.svg" width="200">
 
 ### Quellen
-[1] Drummer, Heike und Jutta Zwilling (2007): Von der Grüneburg bis Campus Westend. Die Geschichte des IG Farben-Hauses. Frankfurt am Main: Präsidium der Johann-Wolfgang-Goethe-Universität.
+[1]Drummer, Heike und Jutta Zwilling (2007): Von der Grüneburg bis Campus Westend. Die Geschichte des IG Farben-Hauses. Frankfurt am Main: Präsidium der Johann-Wolfgang-Goethe-Universität.
