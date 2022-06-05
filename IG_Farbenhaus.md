@@ -33,11 +33,11 @@ PS: Falls Deine Kraftreserven schon etwas ausgelaugt sind, dann empfehlen wir Di
 zumindest einen Blick auf die nationalsozialistische Vergangenheit des Gebäudes zu 
 werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächste Rätsel...
 
-[links: Nationalsozialistische Vergangenheit](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)
+[←: Nationalsozialistische Vergangenheit](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)
 
-[rechts: Paternosteraufzug](IG_Farbenhaus_Paternoster.md)
+[→: Paternosteraufzug](IG_Farbenhaus_Paternoster.md)
 
-[geradeaus: Eisenhower-Rotunde Café](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
+[↑: Eisenhower-Rotunde Café](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
 
 
 
