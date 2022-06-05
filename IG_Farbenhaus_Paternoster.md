@@ -57,6 +57,6 @@ Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
                                                                                                                                                               
 ### Quellen
 
-[1] https://de.wikipedia.org/wiki/Paternosteraufzug
+[1]https://de.wikipedia.org/wiki/Paternosteraufzug
 
-[2] https://www.bmas.de/DE/Service/Presse/Meldungen/2015/2015-06-24-aenderung-betriebssicherheitsverordnung.html
+[2]https://www.bmas.de/DE/Service/Presse/Meldungen/2015/2015-06-24-aenderung-betriebssicherheitsverordnung.html
