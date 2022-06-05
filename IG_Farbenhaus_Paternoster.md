@@ -33,7 +33,7 @@ paternoster-drehen-sich-weiter-13619797.html) lesen.
 
 
 Oder schau gerne hier: 
-{% include Body_of_Knowledge_youtubePlayer.html id="1z7rp5OXFnU" %}
+{% include Body_of_Knowledge_youtubePlayer.html id="v=1z7rp5OXFnU" %}
 
 Der NDR hat einen kleinen Film über den „Irrsinn“ gedreht. Da sich 2011 bei der 
 Benutzung des Paternosters zwei Unfälle ereigneten und 2015 das Gesetz zur 
@@ -48,6 +48,12 @@ Zum Glück ist das heute nicht mehr nötig.
 Also steig ein und fahr‘ ein paar Runden – wer weiß, wie lange dies noch möglich 
 sein wird!
 
+Nach deinem Ritt kannst Du entscheiden, wie es weitergeht… Möchtest Du noch zur [geschichtlichen Dauerausstellung](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)? Oder für einen kleinen Snack in die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)?
+Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+                                                                                 
+                                                                           
+
+                                                                                                                                                              
 ### Quellen
 
 [1] https://de.wikipedia.org/wiki/Paternosteraufzug
