@@ -27,5 +27,8 @@ denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels.
 (hier Rätsel einfügen)
 <br>
 
-Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den Paternoster und die Eisenhower-Rotunde besucht?
-Falls nein, benutze den folgenden Link, um zum Aufzug zu gelangen oder den darauffolgenden Link, um die Eisenhower-Rotunde zu besuchen. Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den [Paternosteraufzug](IG_Farbenhaus_Paternoster.md) und die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
+besucht? Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+
+### Nächste Station: _WORT//WORT//WORT_   
+<img src="Pose2.svg" width="200">
