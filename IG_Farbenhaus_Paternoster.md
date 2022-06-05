@@ -33,7 +33,7 @@ paternoster-drehen-sich-weiter-13619797.html) lesen.
 
 
 Oder schau gerne hier: 
-{% include Body_of_Knowledge_youtubePlayer.html id="v=1z7rp5OXFnU" %}
+{% include Body_of_Knowledge_youtubePlayer.html id="1z7rp5OXFnU" %}
 
 Der NDR hat einen kleinen Film über den „Irrsinn“ gedreht. Da sich 2011 bei der 
 Benutzung des Paternosters zwei Unfälle ereigneten und 2015 das Gesetz zur 
