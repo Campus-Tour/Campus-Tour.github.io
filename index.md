@@ -15,14 +15,28 @@ Schnapp dir deine Freunde und los gehts!
 ### Wir wünschen Dir viel Spaß!
 
 
-[Adornos Schreibtisch](Adorno.md)
+[Body of Knowledge](body_of_knowledge.md)
 
-[Body of Knowledge](Body_of_Knowledge.md)
+[Casino Mensa](casino_mensa.md)
 
-[Wollheim Pavillion](Wollheim.md)
+[Alois Alzheimer-Gedenktafel](alois_alzheimer-gedenktafel.md)
 
-[Alois Alzheimer-Gedenktafel](Alzheimer.md)
+[IG Farben](ig_farben.md)
 
-[Campus Garten](CampusGarten.md)
+[Harry Potter-Bibliothek](harry_potter-bibliothek.md)
 
-[IG Farbenhaus](IG_Farbenhaus.md)
+[Wollheim Pavillion](wollheim-pavillon.md)
+
+[Rechts- und Wirtschaftswissenschaften](ruw.md)
+
+[Campus Garten](campus-garten.md)
+
+[Eiskeller](eiskeller.md)
+
+[Adornos Schreibtisch](adornos_schreibtisch.md)
+
+
+
+
+
+
