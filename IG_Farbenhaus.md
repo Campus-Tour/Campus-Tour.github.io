@@ -4,8 +4,7 @@
 </p>
 
 Nun bist Du am IG-Farben-Haus angekommen. Zunächst einmal solltest Du in das
-Gebäude gehen... bis Du in der Eingangshalle mit Blick auf die Eisenhower-
-Rotunde, dem verglasten Rundpavillon, angekommen bist. Das IG-Farben-Haus
+Gebäude gehen... bis Du in der Eingangshalle mit Blick auf die Eisenhower-Rotunde, dem verglasten Rundpavillon, angekommen bist. Das IG-Farben-Haus
 ist das älteste und gleichermaßen geschichtsträchtigste Gebäude des Campus.
 Es ist von einer solch erinnerungspolitischen Relevanz, dass es eine studentische
 Initiative gibt, die die Umbenennung des gesamten Campus in den „IG-Farben-
@@ -38,7 +37,7 @@ werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächst
 
 [rechts: Paternosteraufzug](IG_Farbenhaus_Paternosteraufzug.md)
 
-[Café: Eisenhower Rotunde Café](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
+[geradeaus: Eisenhower-Rotunde Café](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
 
 
 
