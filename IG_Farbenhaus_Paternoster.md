@@ -13,7 +13,7 @@ denen Du sieben der neun Stockwerke erreichen kannst. Und das ganz ohne Tür!
 
 Doch warum eigentlich das Wort „Paternoster“? Aus dem Lateinischen übersetzt 
 heißt es „Vaterunser“ und steht auf den ersten Blick in keinem Zusammenhang 
-mit einem Fahrstuhl. Doch die Funktionsweise des Personen-Umlaufaufzugs ist 
+mit einem Fahrstuhl. Doch die Funktionsweise des Personen-Umlaufaufzugs ist <img align="right" src="Pose1_1.svg"  
 der Schlüssel: Die Personenkabinen des Paternosters sind wie auf einer Schnur 
 übereinander aufgefädelt und ähneln damit einem Rosenkranz (Kette mit kleinen
 Perlen, die zum Beten genutzt wird). Da der Rosenkranz früher auch 
