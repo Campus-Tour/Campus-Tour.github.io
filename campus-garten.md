@@ -39,6 +39,8 @@ Die Bildchen unten zeigen alle ein Teekesselchen. Das sind Wörter, die zwei ver
 
 </form>
 
+Der Lösungsbuchstabe dieser Station ist der vorletzte Buchstabe aus dem Gesamtbilderrätsel.
+
 Hier findest du weitere Informationen zu den am Garten beteiligten Gruppen: 
 [www.goethesgreenoffice.de](http://www.goethesgreenoffice.de/2021/10/13/permakultur-campus-gaerten-uni-frankfurt/)
 [www.gemueseheldinnen-frankfurt.de](https://gemueseheldinnen-frankfurt.de/permakulturinseln/).
