@@ -26,7 +26,7 @@ Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du de
 
 Weitere Information findest du auf der [Webseite des Wollheim Pavillons ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
-### Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst.
+### Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst und auf die Rückseite der Bildertafeln schaust.
 
 <img src="Wollheim_Bild2.jpg" width="200">
 
@@ -49,6 +49,8 @@ Weitere Information findest du auf der [Webseite des Wollheim Pavillons ](http:/
   <input type="button" value="Check" onClick="checkAnswers2()">
 
 </form>
+
+Der Lösungsbuchstabe dieser Station ist der Anfangsbuchstabe des Vornamens des ersten Jungen!
 
 ### Nächste Station: _WORT//WORT//WORT_   
 <img src="Pose2.svg" width="200">
