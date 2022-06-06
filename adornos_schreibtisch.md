@@ -42,6 +42,7 @@ rund um Adorno in dem Buchstabenwirrwarr zu finden. Sie verstecken sich
 waagerecht, senkrecht und diagonal. Klicke einfach den ersten und letzten 
 Buchstaben des Wortes an und wenn es richtig ist, wird es in der Liste der 
 gesuchten Wörter durchgestrichen. Viel Spaß!
+Den Lösungsbuchstaben dieser Station findest Du an dritter und letzter Stelle in dem Namen von Adornos Kollegen, dem Direktor des Instituts für Sozialforschung (PS: Der Name ist einer der 10 Begriffe aus dem Buchstabenrätsel).
 
 Mehr zu dem Adorno-Denkmal, findest du [hier](https://www.uni-frankfurt.de/66990032/adorno-denkmal). Dort werden weiterführende Literaturangaben gemacht.
 Und falls du gerne mehr zu Adornos Leben erfahren möchtest, klicke [hier](https://www.hdg.de/lemo/biografie/theodor-w-adorno.html). Eine Darstellung seiner Theorie findet sich ausführlich auf der Website der [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/adorno/). Viel Spaß beim Stöbern!
