@@ -1,3 +1,3 @@
 ### TEST
 
-<object width="600" data="TESTPDF.pdf"/>
+<object width="200" data="TESTPDF.pdf"/>
