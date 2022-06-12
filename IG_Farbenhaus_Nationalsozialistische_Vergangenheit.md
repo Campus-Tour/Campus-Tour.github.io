@@ -17,7 +17,7 @@ noch die Themen im rechten Flügel des Gebäudes studieren.
 
 <br>
 Beginnend in der ersten Etage findest Du in diesem Querbau Themenkomplexe aus Zeiten der Kollaboration der 
-Interessengemeinschaft Farbenindustrie und dem Nationalsozialismus und die fortlaufende Geschichte des Gebäudes. 
+Interessengemeinschaft Farbenindustrie und dem Nationalsozialismus sowie die fortlaufende Geschichte des Gebäudes. 
 Über fünf Etagen hinweg hast Du nun die Möglichkeit, dich über die Geschichte des Gebäudes zu informieren. 
 Falls Deine Zeit nicht für alle Themenabschnitte reicht, solltest Du wenigstens die 1. Etage ergründen, 
 denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels:
