@@ -24,7 +24,7 @@ Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du de
 
 Weitere Information findest du auf der [Webseite des Wollheim Pavillons ](http://www.wollheim-memorial.de/de/home)und auf der Webseite des [Fritz Bauer Institutes](https://www.fritz-bauer-institut.de).
 
-Zudem kannst Du [hier](https://campus-tour.github.io/HabilDumaVeronika_Kurztext.pdf) ein Exposé zum Habilitationsprojekt von Veronika Duma anschauen. Aktuell arbeitet sie an einem Forschungsprojekt, welches sich mit dem Raub an der jüdischen Bevölkerung in Europa befasst. Durch ihre Arbeit erhältst Du einen Einblick in die aktuelle Forschung an der Goethe-Uni zur NS-Geschichte! 
+Zudem kannst Du [hier](https://campus-tour.github.io/HabilDumaVeronika_Kurztext.pdf) ein Exposé zum Habilitationsprojekt von Veronika Duma anschauen, welches sich mit dem Raub an der jüdischen Bevölkerung in Europa befasst. Durch ihre Arbeit erhältst Du einen Einblick in die aktuelle Forschung an der Goethe-Uni zur NS-Geschichte! 
 
 ### Wie heißen die Kinder? Finde es heraus, indem Du die Tafeln vor dem IG-Farbenhaus suchst und auf die Rückseite der Bildertafeln schaust.
 
