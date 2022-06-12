@@ -48,6 +48,8 @@ Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörig
  <br>
 </form>
 
+Der Lösungsbuchstabe für diese Station ist der Anfangsbuchstaben des letzten Rebus-Wortes.
+
 Hast Du Lust,auch einen Rubus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
 
 ### Nächste Station: _WORT//WORT//WORT_   
