@@ -21,7 +21,7 @@ Seminarräume, Dienstzimmer, Sekretariate und Konferenzsäle.
 <img src="IG_Farben_Abb1.jpg" width="400">
 
 Nun hast Du dieses eindrucksvolle Gebäude vor Dir und die Wahl: 
-Möchtest Du über die Geschichte des Hauses sofort mehr erfahren, 
+Möchtest Du über die Geschichte des Hauses sofort mehr erfahren 
 oder zunächst einmal mit dem berühmtberüchtigten Paternoster-Aufzug fahren? 
 Die Entscheidung liegt bei Dir: Gehe die Treppen hinauf und in den linken Flügel 
 des Gebäudes, um die Geschichte des Gebäudes und des Campus Westends zu ergründen 
