@@ -16,7 +16,6 @@ mit dem nationalsozialistischen Regime geht. Falls Du danach noch Zeit und Kraft
 noch die Themen im rechten Flügel des Gebäudes studieren. 
 
 <br>
-
 Beginnend in der ersten Etage findest Du in diesem Querbau Themenkomplexe aus Zeiten der Kollaboration der 
 Interessengemeinschaft Farbenindustrie und dem Nationalsozialismus und die fortlaufende Geschichte des Gebäudes. 
 Über fünf Etagen hinweg hast Du nun die Möglichkeit, dich über die Geschichte des Gebäudes zu informieren. 
