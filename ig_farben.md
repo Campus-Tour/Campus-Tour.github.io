@@ -23,11 +23,13 @@ Seminarräume, Dienstzimmer, Sekretariate und Konferenzsäle.
 Nun hast Du dieses eindrucksvolle Gebäude vor Dir und die Wahl: 
 Möchtest Du über die Geschichte des Hauses sofort mehr erfahren 
 oder zunächst einmal mit dem berühmtberüchtigten Paternoster-Aufzug fahren? 
-Die Entscheidung liegt bei Dir: Gehe die Treppen hinauf und in den linken Flügel 
+Die Entscheidung liegt bei Dir: Gehe vom Haupteingang aus gesehen die Treppen hinauf und in den linken Flügel 
 des Gebäudes, um die Geschichte des Gebäudes und des Campus Westends zu ergründen 
 oder gegenteilig nach rechts, um zunächst einen nostalgischen Ritt im Paternosteraufzug 
 zu wagen. Möchtest Du jedoch zunächst eine Pause machen, dann setze dich doch in das 
 Café in der imposanten Eisenhower-Rotunde und genieße den Ausblick. 
+
+<img src="Treppe IG.jpg" width="400">
 
 PS: Falls Deine Kraftreserven schon etwas ausgelaugt sind, dann empfehlen wir Dir, 
 zumindest einen Blick auf die nationalsozialistische Vergangenheit des Gebäudes zu 
