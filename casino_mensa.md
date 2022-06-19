@@ -10,7 +10,7 @@ Finde mittels des Rückwärtstexts heraus, welche der Aussagen nicht zutrifft. D
 
 ### Welche Aussage trifft NICHT zu?
 A) Im inszenierten Streitgespräch waren die Teilnehmenden, die tierische Produkte konsumieren, den veganen Teilnehmenden argumentativ überlegen.  
-B) Im persönlichen Umfeld von vegan Ernährenden befinden sich auch viele Menschen, die eine ähnliche Ernährungsweise nicht teilen. 
+B) Im persönlichen Umfeld von vegan Ernährenden befinden sich auch viele Menschen, die eine ähnliche Ernährungsweise nicht teilen. <br/>
 C) Insbesondere im gesellschaftlichen Leben geraten Veganer*innen aufgrund sozialer Erwünschtheit häufig in schwierige Situationen, in denen sie Kompromisse in ihrer Ernährungsweise eingehen.  
 D) Eine Ernährung mit tierischen Produkten wird bisher als „normal“ angesehen, wodurch Fleischkonsumierende weniger mit ihrer Ernährungsweise konfrontiert werden und seltener in Rechtfertigungssituationen geraten. 
 
