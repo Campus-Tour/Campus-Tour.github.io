@@ -1,6 +1,6 @@
 # Casino Mensa
 
-Super, Du hast es zu der Station Casino Mensa geschafft! Du stehst direkt vor einer der 13 Cafeterias und Mensen auf dem Campus Westend. Hier hast Du die Wahl zwischen verschiedensten Speisen und Getränken – ganz gleich, ob Du lieber tierische, vegetarische oder vegane Speisen bevorzugst, für so gut wie jede Ernährungsweise ist hier eine passende Speise dabei! 
+Super, Du hast es zu der Station Casino Mensa geschafft! Du stehst direkt vor einer der 13 Cafeterien und Mensen auf dem Campus Westend. Hier hast Du die Wahl zwischen verschiedensten Speisen und Getränken – ganz gleich, ob Du lieber tierische, vegetarische oder vegane Speisen bevorzugst – für so gut wie jede Ernährungsweise ist hier eine passende Speise dabei! 
 
 Um Ernährungsweisen und dessen Folgen auf das soziale Umfeld geht es auch im nächsten Rätsel. 
 ### Aufgabe: 
@@ -15,8 +15,8 @@ C) Insbesondere im gesellschaftlichen Leben geraten Veganer*innen aufgrund sozia
 D) Eine Ernährung mit tierischen Produkten wird bisher als „normal“ angesehen, wodurch Fleischkonsumierende weniger mit ihrer Ernährungsweise konfrontiert werden und seltener in Rechtfertigungssituationen geraten. 
 
 Für einen ausführlicheren Einblick in das Forschungsprojekt unter Leitung von Prof. Christian Stegbauer siehe: 
-Windscheid, N., Schöngarth, S., Becker, S., Aksoy, H. & Stegbauer, C. (2020): Ausbreitung des Veganismus. Wirtschaftssoziologisches Seminar untersucht vegetarische und vegane Konsumgewohnheiten. Unireport, 2(20), 7. https://www.unireport.info/87452345.pdf 
+Windscheid, N.; Schöngarth, S.; Becker, S.; Aksoy, H. und Stegbauer, C. (2020): Ausbreitung des Veganismus. Wirtschaftssoziologisches Seminar untersucht vegetarische und vegane Konsumgewohnheiten. Unireport, 2(20), 7. https://www.unireport.info/87452345.pdf 
 
-Hat das Lösen des Rätsels Deinen Hunger oder Durst geweckt? Dann bietet sich hier in der Nähe die Mensa Casino wunderbar für eine kleine Rast an! 
+Hat das Lösen des Rätsels Deinen Hunger oder Durst geweckt? Dann bietet sich die Mensa Casino wunderbar für eine kleine Rast an! 
 
 ### Nächste Station: _Wort//Wort//Wort_
