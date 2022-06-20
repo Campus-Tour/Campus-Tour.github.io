@@ -2,7 +2,7 @@
 
 Super, Du hast es zu der Station Casino Mensa geschafft! Du stehst direkt vor einer der 13 Cafeterien und Mensen auf dem Campus Westend. Hier hast Du die Wahl zwischen verschiedensten Speisen und Getränken – ganz gleich, ob Du lieber tierische, vegetarische oder vegane Speisen bevorzugst – für so gut wie jede Ernährungsweise ist hier eine passende Speise dabei! 
 
-Um Ernährungsweisen und dessen Folgen auf das soziale Umfeld geht es auch im nächsten Rätsel. 
+Um Ernährungsweisen und dessen Folgen auf das soziale Umfeld geht es auch im nächsten Rätsel. <img align="right" src="Pose1_1.svg" width="100">
 ### Aufgabe: 
 Finde mittels des Rückwärtstexts heraus, welche der Aussagen nicht zutrifft. Der Buchstabe der falschen Aussage ist der Lösungsbuchstabe dieser Station.
 
@@ -20,3 +20,4 @@ Windscheid, N.; Schöngarth, S.; Becker, S.; Aksoy, H. und Stegbauer, C. (2020):
 Hat das Lösen des Rätsels Deinen Hunger oder Durst geweckt? Dann bietet sich die Mensa Casino wunderbar für eine kleine Rast an! 
 
 ### Nächste Station: _Wort//Wort//Wort_
+<img src="Pose2.svg" width="200">
