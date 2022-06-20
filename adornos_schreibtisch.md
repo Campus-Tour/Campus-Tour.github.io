@@ -2,7 +2,7 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
-Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite] (https://campus-tour.github.io/) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du mit hier direkt weitermachen, viel Spaß! <br/>
+Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io/) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du mit hier direkt weitermachen, viel Spaß! <br/>
 
 Vor dir siehst du das Adorno-Denkmal, das anlässlich zum 100. Geburtstag von Adorno 2003 in Bockenheim eingeweiht wurde. Seit 2016 steht es hier auf dem Campus Westend. Um mehr über Adorno zu erfahren und einen Einstieg in sein Denken zu erhalten, haben wir für dich einen Adorno-Kenner, Prof. Dr. Martin Saar (hier unten auf dem Foto zu sehen) interviewt. Hör gerne rein! 
 
