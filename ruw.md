@@ -2,6 +2,8 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
+Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
+
 Vor Dir befindet sich das Recht- und Wirtschaft-Gebäude, kurz RuW. Hier finden vor allem Forschungen und Kurse des Fachbereichs 01 (Rechtswissenschaft) und des Fachbereichs 02 (Wirtschaftswissenschaften) statt. Von insgesamt 45521 Studierenden im Jahr 2020 an der Goethe Universität studieren die meisten Wirtschaftswissenschaften (5814 Studierende), dicht gefolgt von Mathematik und Informatik (5399 Studierende) und Rechtswissenschaft (4746 Studierende). Zu den beliebtesten Studiengängen gehört demnach Wirtschaftswissenschaften – im folgenden Rätsel wird daher nach einer der zahlreichen Lehrenden gefragt. <img align="right" src="Pose1_1.svg" width="100">
 
 ### Die gesuchte Person…
