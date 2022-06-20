@@ -22,6 +22,7 @@ Falls Deine Zeit nicht für alle Themenabschnitte reicht, solltest Du wenigstens
 denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels: 
 
 In welchem Konzentrationslager wurden ab 1942 die tödlichen Höchst-Medikamente an Menschen ausgetestet?
+
 <img src="Bild IG Farben.png" width="200"> <br/>
 Wenn du die Lösung gefunden hast, dann nehme den vierten Buchstaben der Antwort, um den nächsten Buchstaben für unser Rätsel zu erhalten.
 
