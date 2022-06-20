@@ -23,7 +23,7 @@ denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels:
 
 In welchem Konzentrationslager wurden ab 1942 die tödlichen Höchst-Medikamente an Menschen ausgetestet?
 
-                                <img src="Bild Q3 IG neu.png" width="300"> <br/>
+<img src="Bild Q3 IG neu.png" width="300"> <br/>
 Wenn du die Lösung gefunden hast, dann nehme den vierten Buchstaben der Antwort, um den nächsten Buchstaben für unser Rätsel zu erhalten.
 
 Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den [Paternosteraufzug](IG_Farbenhaus_Paternoster.md) und die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
