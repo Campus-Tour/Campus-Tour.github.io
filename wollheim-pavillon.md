@@ -2,10 +2,13 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
+Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
+
 <img src="Wollheim_Bild1.jpg" width="600">
+Hier siehst Du das Innere des Wollheim-Pavillons. Gehe doch gerne selbst hinein und schau dich um! Auf den Bildschirmen im Pavillion kannst Du vieles entdecken!
 
 Lust auf ein [großes Kreuzworträtsel?](https://www.xwords-generator.de/de/solve/dshbk) (Alternativ kannst du auch ein [kleineres Kreuzworträtsel](https://www.xwords-generator.de/de/solve/7kqan) lösen). <img align="right" src="Pose3_1.svg" width="100"> 
-Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit du dein Wissen überprüfen kannst. Die teils dazu nötigen Informationen findest Du auf den Bildschirmen im Wollheim-Pavillon oder [online](http://www.wollheim-memorial.de/de/home). Am Ende erhältst du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
+Es verbindet Fragen zu Wollheim und allgemeine Fragen zum Holocaust, damit Du dein Wissen überprüfen kannst. Die teils dazu nötigen Informationen findest Du auf den Bildschirmen im Wollheim-Pavillon oder [online](http://www.wollheim-memorial.de/de/home). Am Ende erhältst Du ein Lösungswort, das du hier zur Prüfung eingeben kannst:
 <form name="f4">
   Lösungswort für das große Rätsel (GROßBUCHSTABEN) <input type="text" name="studentAnswer" size="20">
   <br>
