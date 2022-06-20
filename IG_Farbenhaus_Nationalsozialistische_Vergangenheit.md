@@ -19,7 +19,7 @@ Beginnend in der ersten Etage findest Du in diesem Querbau Themenkomplexe aus Ze
 Interessengemeinschaft Farbenindustrie und dem Nationalsozialismus sowie die fortlaufende Geschichte des Gebäudes. 
 Über fünf Etagen hinweg hast Du nun die Möglichkeit, dich über die Geschichte des Gebäudes zu informieren. 
 Falls Deine Zeit nicht für alle Themenabschnitte reicht, solltest Du wenigstens die 1. Etage ergründen, 
-denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels: <img src="Bild IG Farben.png" width="400">
+denn dort findest Du den nächsten Buchstaben zur Lösung unseres Rätsels: <img src="Bild IG Farben.png" width="200">
 
 In welchem Konzentrationslager wurden ab 1942 die tödlichen Höchst-Medikamente an Menschen ausgetestet? 
 Wenn du die Lösung gefunden hast, dann nehme den vierten Buchstaben der Antwort, um den nächsten Buchstaben für unser Rätsel zu erhalten.
