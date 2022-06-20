@@ -2,6 +2,8 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
+Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
+
 Super, Du hast es zu der Station Casino Mensa geschafft! Du stehst direkt vor einer der 13 Cafeterien und Mensen auf dem Campus Westend. Hier hast Du die Wahl zwischen verschiedensten Speisen und Getränken – ganz gleich, ob Du lieber tierische, vegetarische oder vegane Speisen bevorzugst – für so gut wie jede Ernährungsweise ist hier eine passende Speise dabei! 
 
 Um Ernährungsweisen und dessen Folgen auf das soziale Umfeld geht es auch im nächsten Rätsel. <img align="right" src="Pose1_1.svg" width="100">
