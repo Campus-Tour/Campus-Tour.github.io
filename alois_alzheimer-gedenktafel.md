@@ -2,6 +2,8 @@
 <p class="aligncenter">
     <img src="Logo.png" alt="centered image" width="400" />
 </p>
+Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
+
 Diese Gedenktafel erinnert an Alois Alzheimer. <img align="right" src="Pose1_1.svg" width="100"> 
 Er stieß erstmalig auf anatomische Veränderungen im Gehirn einer Patientin, welche typisch für die später nach ihm benannte Erkrankung waren: Plaques, Fibrillen und ein verringertes Gehirnvolumen. [Hier](https://www.uni-frankfurt.de/66990042/Gedenktafel_für_Alois_Alzheimer) auf der Uni-Website findest du noch weitere Informationen zu Alois Alzheimer.
 
