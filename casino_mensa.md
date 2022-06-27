@@ -14,7 +14,7 @@ Finde mittels des Rückwärtstexts heraus, welche der Aussagen nicht zutrifft. D
 
 ### Welche Aussage trifft NICHT zu?
 A) Im inszenierten Streitgespräch waren die Teilnehmenden, die tierische Produkte konsumieren, den veganen Teilnehmenden argumentativ überlegen.  
-B) Insbesondere im gesellschaftlichen Leben geraten Veganer*innen aufgrund sozialer Erwünschtheit häufig in schwierige Situationen, in denen sie Kompromisse in ihrer Ernährungsweise eingehen. 
+B) Insbesondere im gesellschaftlichen Leben geraten Veganer*innen aufgrund sozialer Erwünschtheit häufig in schwierige Situationen, in denen sie Kompromisse in ihrer Ernährungsweise eingehen. <br/>
 C) Eine Ernährung mit tierischen Produkten wird bisher als „normal“ angesehen, wodurch Fleischkonsumierende weniger mit ihrer Ernährungsweise konfrontiert werden und seltener in Rechtfertigungssituationen geraten. 
 
 Für einen ausführlicheren Einblick in das Forschungsprojekt unter Leitung von Prof. Christian Stegbauer siehe: 
