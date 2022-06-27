@@ -42,7 +42,9 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
         + mobile Beratungsstellen gegen Rechtsextremismus Hessen: https://mbt-hessen.org/
         + HateAid: https://hateaid.org/betroffenenberatung/
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html
-
+<br><br>
+### Rätsel
+Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du es oder lässt du dich täuschen?
 <br><br>
 ### Nächste Station: _///blende.digitalen.angehängt_
 <br><br>
