@@ -59,8 +59,14 @@ Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Ob
 *Hermine*: Während in den Naturwissenschaften, der Medizin und Pharmazie heute an Mitteln gegen Krankheiten wie Demenz oder Krebs geforscht wird, ist in Märchen die Rede von Schlaftränken oder Liebestränken. Und die Wirkungen, die man von solchen Tränken erwarten kann, sind tatsächlich ohne Magie mit einfachen Pflanzenkenntnissen der Muggel hervorrufbar. Zutaten für einen Schlaftrank wie er bei Schneewittchen vorkommt, könnten Fingerhut, Getrocknete Kröten, Schlangenwurzel und Mandelöl gewesen sein. Fingerhut enthält Digitoxin und Digoxin, was zu einer Reduzierung der Herzfrequenz führt. Getrocknete Kröten enthalten Bufotoxin, was positive Inotropie, also stärkere Herzmuskelkontraktion hervorruft. Schlangenwurzel enthält Reserpine was eine Hypotonie (niedrigen Blutdruck), Hypothermie (Unterkühlung) sowie Schläfrigkeit zur Folge hat und mit Mandelöl kann man diese Stoffe solubilisieren. [2]
 
 
+### Rätsel
+Für das Lösungswort müsst ihr die Harry Potter-Bibliothek finden. Wie in der Hogwarts Schule für Hexerei und Zauberei ist das auch hier kein leichtes Unterfangen. Den Zugang zur Bibliothek findet ihr im dritten Stock. Von dort müsst ihr in den zweiten Stock hinunter gehen und dort findet ihr den Eingang in die besondere Bibliothek. 
+
+<br> <br>
+
 ### Nächste Station: _///duden.drucker.leuchtet_
 
+<br> <br>
 
 ### Referenzen  
 [1] Carruthers, D. M. J. (2015). Lines of flight of the deadly nightshade: An enquiry into the properties of the magical plant, its literature and history. Mosaic: A Journal for the Interdisciplinary Study of Literature, 48(2), 119–132. https://doi.org/10.1353/mos.2015.0025  
