@@ -15,7 +15,7 @@ Heutzutage wird am PEG-Gebäude unter anderem psychologische Forschung betrieben
 ## Optische Täuschungen
 Im Folgenden ist eine optische Täuschung zu sehen, die als Hermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
 
-<img src="hermann_grid.PNG" width="600">
+<img id="imgClickAndChange" src="hermann_grid.PNG" width="600">
 
 Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jedoch nicht im Zentrum des Blickes auftreten. Richtet man den Blick nun auf diese grauen Flecken, verschwinden diese wieder im Zentrum des Blickes und erscheinen in der Peripherie. Ludimar Hermann [2] entdeckte diese optische Täuschung im Jahre 1870, deren Erklärung bis 1960 zunächst verborgen blieb und später nochmal widerlegt wurde. In diesem Jahr schlug Baumgartner vor, dass die Hermann-Gitter-Täuschung auf den zirkulären rezeptiven Feldern von Ganglienzellen zurückzuführen sei [3]. 
 
@@ -55,4 +55,17 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 [6] Lamberty, P. (2019). Verschwörungsmythen als Radikalisierungs-beschleuniger: Eine psychologische Betrachtung. Die Erde.  
 [7] van Prooijen, J. W. (2022). Psychological benefits of believing conspiracy theories. Current Opinion in Psychology, 47, 101352. http://dx.doi.org/10.1016/j.copsyc.2022.101352.  
 [8] Frankfurt Humanities Research Centre. (n.d.). Goethe-Universität — Der Eiskeller auf dem Affenstein. www.uni-Frankfurt.de. Retrieved June 27, 2022, from https://www.uni-frankfurt.de/67654109/Der_Eiskeller_auf_dem_Affenstein
+
+<script>
+    var images = ["hermann_grid.PNG", "hermann_grid_waves.PNG"]
+
+    var imgState = 0;
+
+    var imgTag = document.getElementById("imgClickAndChange");
+
+    imgTag.addEventListener("click", function (event) {
+        imgState = (++imgState % images.length);
+        event.target.src = images[imgState];
+});
+</script>
 ‌
