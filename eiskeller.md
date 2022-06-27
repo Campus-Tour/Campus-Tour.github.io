@@ -44,7 +44,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html
 
 
-## Referenzen  
+### Referenzen  
 [1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5  
 [2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv Für Die Gesamte Physiologie Des Menschen Und Der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926  
 [3] Corney, D., & Lotto, R. B. (2007). What are lightness illusions and why do we see them? PLoS Computational Biology, 3(9), e180. https://doi.org/10.1371/journal.pcbi.0030180  
