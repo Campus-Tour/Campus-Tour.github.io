@@ -43,7 +43,9 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
         + HateAid: https://hateaid.org/betroffenenberatung/
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html
 
-
+<br><br>
+### Nächste Station: _///blende.digitalen.angehängt_
+<br><br>
 ### Referenzen  
 [1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5  
 [2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv Für Die Gesamte Physiologie Des Menschen Und Der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926  
