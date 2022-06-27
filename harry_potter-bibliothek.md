@@ -64,6 +64,10 @@ Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Ob
 
 <br><br><br>
 
+### Nächste Station: _///duden.drucker.leuchtet_
+
+<br><br>
+
 ### Referenzen  
 [1] Carruthers, D. M. J. (2015). Lines of flight of the deadly nightshade: An enquiry into the properties of the magical plant, its literature and history. Mosaic: A Journal for the Interdisciplinary Study of Literature, 48(2), 119–132. https://doi.org/10.1353/mos.2015.0025  
 [2] Llanes, L. C., Sa, N. B., Cenci, A. R., Teixeira, K. F., de França, I. V., Meier, L., & de Oliveira, A. S. (2022). Witches, potions, and metabolites: An overview from a medicinal perspective. RSC Medicinal Chemistry, 13(4), 405–412. https://doi.org/10.1039/d2md00025c
