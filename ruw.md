@@ -19,7 +19,7 @@ Der zweite Buchstabe des Nachnamens der gesuchten Person ist der Lösungsbuchsta
 
 <img src="RuW1.jpg" width="400">
 Entdecke das RUW auch von innen! Hier gibt es viel zu entdecken. An gewissen Orten findest Du spannende Infotafeln zu bedeutenden Wissenschaftler*innen des Rechts und der Wirtschaft.
-
+<br/>
 <img src="RuW Büste.jpg" width="400">
 Im 1.OG befindet sich beispielsweise eine Büste zu Reinhard Selten, der an der Goethe Universität Mathematik und Volkswirtschaftslehre studierte und 1994 mit dem Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften ausgezeichnet wurde.
 
