@@ -15,7 +15,7 @@ Heutzutage wird am PEG-Gebäude unter anderem psychologische Forschung betrieben
 ## Optische Täuschungen
 Im Folgenden ist eine optische Täuschung zu sehen, die als Hermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
 
-<img src="hermann_grid.PNG" width="600">
+<img src="hermann_grid.PNG" id="imgClickAndChange2" width="600">
 
 Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jedoch nicht im Zentrum des Blickes auftreten. Richtet man den Blick nun auf diese grauen Flecken, verschwinden diese wieder im Zentrum des Blickes und erscheinen in der Peripherie. Ludimar Hermann [2] entdeckte diese optische Täuschung im Jahre 1870, deren Erklärung bis 1960 zunächst verborgen blieb und später nochmal widerlegt wurde. In diesem Jahr schlug Baumgartner vor, dass die Hermann-Gitter-Täuschung auf den zirkulären rezeptiven Feldern von Ganglienzellen zurückzuführen sei [3]. 
 
@@ -57,7 +57,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 [8] Frankfurt Humanities Research Centre. (n.d.). Goethe-Universität — Der Eiskeller auf dem Affenstein. www.uni-Frankfurt.de. Retrieved June 27, 2022, from https://www.uni-frankfurt.de/67654109/Der_Eiskeller_auf_dem_Affenstein
 
 <script>
-    var images = ["hermann_grid.PNG", "hermann_grid_waves.PNG"]
+    var images = [ "hermann_grid_waves.PNG", "hermann_grid.PNG"]
 
     var imgState = 0;
 
@@ -66,6 +66,20 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
     imgTag.addEventListener("click", function (event) {
         imgState = (++imgState % images.length);
         event.target.src = images[imgState];
+    
+        var images = [ "hermann_grid_waves.PNG", "hermann_grid.PNG"]
+
+    
+    
+    var images = [ "hermann_grid_lösungsbuchstabe.PNG", "hermann_grid.PNG"]
+
+    var imgState2 = 0;
+
+    var imgTag2 = document.getElementById("imgClickAndChange2");
+
+    imgTag.addEventListener("click", function (event) {
+        imgState2 = (++imgState2 % images2.length);
+        event.target.src = images2[imgState2];
 });
 </script>
 ‌
