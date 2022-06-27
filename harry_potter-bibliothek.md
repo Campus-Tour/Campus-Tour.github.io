@@ -4,12 +4,8 @@
 </p>
 Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
 
-___
-
 Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Obergeschoss der Bibliothek des Fachbereichs Germanistik im Querbau 1 des IG Farbengebäudes. Bereits auf dem Weg in die Bibliothek fühlt man sich ein bisschen wie in der Hogwarts Schule für Hexerei und Zauberei. Zwar schwingen hier keine magischen Treppen hin und her, die den Weg zum Ziel verkomplizieren, doch der Eingang über das dritte Obergeschoss zu einer Bibliothek, die sich im ersten und zweiten Obergeschoss befindet, macht den Weg in die besondere Bibliothek schon etwas ungewöhnlich. Doch von Studierenden wird die Bibliothek aus einem anderen Grund als „Harry Potter Bibliothek“ bezeichnet. Wenn du schon in anderen Bibliotheken der Goethe Universität warst, wird dir hier sicher ein Unterschied auffallen, oder? Kaum tritt man ein fühlt man sich wie an einem magischen Ort, entworfen nach einer Beschreibung aus der Feder J. K. Rowlings. Denn die Gestaltung der Bibliothek erinnert sehr an die Schulbibliothek der Hogwarts Schule für Hexerei und Zauberei, wo die Bibliothekarin Irma Pince über die vielen langen Regale voller Zauberbücher der verschiedensten Fachrichtungen wacht. Nur dass man hier anstelle von Schulbüchern über die Verteidigung gegen die dunklen Künste oder Bibliografien bedeutender Hexen und Zauberer wie Nicolas Flamel Werke aus dem Altbestand der Germanistik findet. Vielleicht habt ihr aber auch Glück und findet in dem ein oder anderen Märchenbuch etwas über Hexerei und Zauberei und das Hexenwesen…
-
-<br><br><br>
-
+<br>
 
 *Ron*: Alchemie, Runenkunde, Astronomie, … Hermine wie viele Zusatzfächer willst du noch belegen?  
 
@@ -62,11 +58,8 @@ Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Ob
 *Hermine*: Während in den Naturwissenschaften, der Medizin und Pharmazie heute an Mitteln gegen Krankheiten wie Demenz oder Krebs geforscht wird, ist in Märchen die Rede von Schlaftränken oder Liebestränken. Und die Wirkungen, die man von solchen Tränken erwarten kann, sind tatsächlich ohne Magie mit einfachen Pflanzenkenntnissen der Muggel hervorrufbar. Zutaten für einen Schlaftrank wie er bei Schneewittchen vorkommt, könnten Fingerhut, Getrocknete Kröten, Schlangenwurzel und Mandelöl gewesen sein. Fingerhut enthält Digitoxin und Digoxin, was zu einer Reduzierung der Herzfrequenz führt. Getrocknete Kröten enthalten Bufotoxin, was positive Inotropie, also stärkere Herzmuskelkontraktion hervorruft. Schlangenwurzel enthält Reserpine was eine Hypotonie (niedrigen Blutdruck), Hypothermie (Unterkühlung) sowie Schläfrigkeit zur Folge hat und mit Mandelöl kann man diese Stoffe solubilisieren. [2]
 
 
-<br><br><br>
-
 ### Nächste Station: _///duden.drucker.leuchtet_
 
-<br><br>
 
 ### Referenzen  
 [1] Carruthers, D. M. J. (2015). Lines of flight of the deadly nightshade: An enquiry into the properties of the magical plant, its literature and history. Mosaic: A Journal for the Interdisciplinary Study of Literature, 48(2), 119–132. https://doi.org/10.1353/mos.2015.0025  
