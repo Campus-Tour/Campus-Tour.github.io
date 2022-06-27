@@ -46,7 +46,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 
 <br><br>
 ### Rätsel
-Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du es oder lässt du dich täuschen?
+Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt du dich täuschen?
 <br><br>
 ### Nächste Station: _///blende.digitalen.angehängt_
 <br><br>
