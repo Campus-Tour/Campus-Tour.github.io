@@ -4,8 +4,6 @@
 </p>
 Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
 
-___
-
 
 ## Irrenschloss: Eiskeller
 Du befindest dich hier an der Station “Eiskeller” im Gebäude der Psychologie, Erziehungswissenschaften und Gesellschaftswissenschaften (PEG-Gebäude). Der Name “Eiskeller” beruht auf den Mauerresten, die bei Bauarbeiten auf dem Campus Westend im Jahre  2008 in der Lübecker Straße entdeckt wurde, das wahrscheinlich als Eiskeller, also Lagerstätte für Eisblöcke, durch eine Psychiatrie genutzt wurde. Es wurde beim Neubau in die gesellschafts- und erziehungswissenschaftliche Bibliothek integriert und ist auch heute noch zu sehen. Heinrich Hoffmann (Autor des Struwwelpeter) war von 1851-88 Direktor dieser„Anstalt für Irre und Epileptische“. Er veranlasste einen Neubau der Psychiatrie auf dem „Affensteiner Feld“ im Westend, dem heutigen Gelände des Westend-Campus. Eine weitere bekannte Persönlichkeit, die mit dieser Psychatrie in Verbindung steht, ist Alois Alzheimer, der Assistenzarzt in dieser Psychiatrie war und hier seinen ersten Fall der Alzheimer-Krankheit entdeckte.Die Psychiatrie wurde 1928 abgerissen und das Gelände wurde später von der IG-Farben gekauft, die auf dem Gebiet das IG-Farben Haus erbaute. [8]
@@ -44,9 +42,8 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html  
 
 
-<br><br>
 ### Rätsel
-Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt du dich täuschen?
+Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt Du dich täuschen?
 <br><br>
 ### Nächste Station: _///blende.digitalen.angehängt_
 <br><br>
