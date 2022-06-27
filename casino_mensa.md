@@ -22,5 +22,5 @@ Windscheid, N.; Schöngarth, S.; Becker, S.; Aksoy, H. und Stegbauer, C. (2020):
 
 Hat das Lösen des Rätsels Deinen Hunger oder Durst geweckt? Dann bietet sich die Mensa Casino wunderbar für eine kleine Rast an! 
 
-### Nächste Station: _Wort//Wort//Wort_
+### Nächste Station: _///absprache.kostbar.besatzung_
 <img src="Pose2.svg" width="200">
