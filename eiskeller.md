@@ -43,7 +43,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 
 
 ### Rätsel
-Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt Du dich täuschen?
+Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt Du dich täuschen?
 <br><br>
 ### Nächste Station: _///blende.digitalen.angehängt_
 <br><br>
