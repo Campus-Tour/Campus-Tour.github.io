@@ -57,7 +57,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 [8] Frankfurt Humanities Research Centre. (n.d.). Goethe-Universität — Der Eiskeller auf dem Affenstein. www.uni-Frankfurt.de. Retrieved June 27, 2022, from https://www.uni-frankfurt.de/67654109/Der_Eiskeller_auf_dem_Affenstein
 
 <script>
-    var images = [ "hermann_grid.PNG", "hermann_grid_waves.PNG"]
+    var images = [ "hermann_grid_waves.PNG", "hermann_grid.PNG"]
 
     var imgState = 0;
 
