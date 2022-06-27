@@ -48,7 +48,7 @@ Die Zahl vor der richtigen Aussage gibt die Position des Lösungsbuchstabens im 
 
 
 
-### Nächste Station: _WORT//WORT//WORT_   
+### Nächste Station: _///volles.akteure.hase_   
 <img src="Pose2.svg" width="200">
 
 ### Quellen
