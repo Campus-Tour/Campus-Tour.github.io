@@ -71,7 +71,7 @@ Die Teillösung des Rätsels ist hier versteckt. Doch Illusionen und Täuschunge
     });
     
     
-    var images2 = [ "hermann_grid_lösungsbuchstabe.PNG", "hermann_grid.PNG"]
+    var images2 = [ "hermann_grid_lösungsbuchstabe_klein.PNG", "hermann_grid.PNG"]
 
     var imgState2 = 0;
 
