@@ -37,18 +37,18 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
     * Haltung zeigen gegen simplifizierende und häufig auch rassistische oder antisemitische Verschwörungserzählungen [6]
     * Sich selbst informieren, persönliche Gespräche suchen statt Schriftverkehr [6]
     * Im Zweifelsfall Beratungsstellen aufsuchen [6]:
-          + Amadeu Antonio Stiftung: https://www.amadeu-antonio-stiftung.de/verschwoerungsmythen-und-antisemitismus/anlaufstellen-und-beratungsangebote/
-          + Veritas Beratung: https://veritas-beratung.de/
-          + mobile Beratungsstellen gegen Rechtsextremismus Hessen: https://mbt-hessen.org/
-          + HateAid: https://hateaid.org/betroffenenberatung/
-          + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html
+        + Amadeu Antonio Stiftung: https://www.amadeu-antonio-stiftung.de/verschwoerungsmythen-und-antisemitismus/anlaufstellen-und-beratungsangebote/
+        + Veritas Beratung: https://veritas-beratung.de/
+        + mobile Beratungsstellen gegen Rechtsextremismus Hessen: https://mbt-hessen.org/
+        + HateAid: https://hateaid.org/betroffenenberatung/
+        + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html
 
 
 Referenzen
-[1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5
-[2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv Für Die Gesamte Physiologie Des Menschen Und Der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926
-[3] Corney, D., & Lotto, R. B. (2007). What are lightness illusions and why do we see them? PLoS Computational Biology, 3(9), e180. https://doi.org/10.1371/journal.pcbi.0030180
-[4] Geier, J., Bernáth, L., Hudák, M., & Séra, L. (2008). Straightness as the main factor of the hermann grid illusion. Perception, 37(5), 651–665. https://doi.org/10.1068/p5622
-[5] Hermann, L. (1870). Eine Erscheinung simultanen Contrastes. Pflügers Archiv Für Die Gesammte Physiologie Des Menschen Und Der Tiere, 3(1), 13–15. https://doi.org/10.1007/bf01855743
-[6] Lamberty, P. (2019). Verschwörungsmythen als Radikalisierungs-beschleuniger: Eine psychologische Betrachtung. Die Erde.
-[7] van Prooijen, J. W. (2022). Psychological benefits of believing conspiracy theories. Current Opinion in Psychology, 47, 101352. http://dx.doi.org/10.1016/j.copsyc.2022.101352.
+[1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5  
+[2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv Für Die Gesamte Physiologie Des Menschen Und Der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926  
+[3] Corney, D., & Lotto, R. B. (2007). What are lightness illusions and why do we see them? PLoS Computational Biology, 3(9), e180. https://doi.org/10.1371/journal.pcbi.0030180  
+[4] Geier, J., Bernáth, L., Hudák, M., & Séra, L. (2008). Straightness as the main factor of the hermann grid illusion. Perception, 37(5), 651–665. https://doi.org/10.1068/p5622  
+[5] Hermann, L. (1870). Eine Erscheinung simultanen Contrastes. Pflügers Archiv Für Die Gesammte Physiologie Des Menschen Und Der Tiere, 3(1), 13–15. https://doi.org/10.1007/bf01855743  
+[6] Lamberty, P. (2019). Verschwörungsmythen als Radikalisierungs-beschleuniger: Eine psychologische Betrachtung. Die Erde.  
+[7] van Prooijen, J. W. (2022). Psychological benefits of believing conspiracy theories. Current Opinion in Psychology, 47, 101352. http://dx.doi.org/10.1016/j.copsyc.2022.101352.  
