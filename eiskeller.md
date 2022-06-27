@@ -28,11 +28,11 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 <img src="hermann_grid_waves.PNG" id="imgClickAndChange" width="600">
 
 ## Verschwörungsmythen
-- Wer?:  Der Glaube an Verschwörungsmythen ist gleich häufig verteilt über alle Altersgruppen, Berufsgruppen und zwischen Ost- und Westdeutschland. Zugänglicher für diese sind Menschen mit rechter und rechtspopulistischer politischer Einstellung, mit vglw. niedrigerem Bildungsniveau und Personen, die sich als sozial und wirtschaftlich schlechter gestellt wahrnehmen – dies aber rein objektiv meist gar nicht sind. [6]
-- Was?:  Inhalte von Verschwörungsmythen sind häufig geprägt durch Misstrauen gegenüber höhergestellten Institutionen und Personen, sog. „Eliten“. [6]
-- Wie?: Filterblasen in sozialen Medien können die Radikalisierung mithilfe von Verschwörungsmythen beschleunigen, insbesondere Videos können gezielter Emotionen ansprechen und sind so zugänglicher. [6]
-- Warum?: Psychologisch gesehen hilft die Beschäftigung mit Verschwörungsmythen bzw. der vermeintliche Erkenntnisgewinn durch diese, einen subjektiven Kontrollverlust auszugleichen. Sie können sinnstiftend, unterhaltsam und spannend wirken. Außerdem können sie gezielt dazu eingesetzt werden, bestimmte Personengruppen zu radikalisieren, z.B. um Wahlverhalten zu beeinflussen, demokratiefeindliche Dynamiken zu unterstützen und Gewalt zu rechtfertigen. [6][7]
-- Was kann ich dagegen tun?
+- **Wer?**:  Der Glaube an Verschwörungsmythen ist gleich häufig verteilt über alle Altersgruppen, Berufsgruppen und zwischen Ost- und Westdeutschland. Zugänglicher für diese sind Menschen mit rechter und rechtspopulistischer politischer Einstellung, mit vglw. niedrigerem Bildungsniveau und Personen, die sich als sozial und wirtschaftlich schlechter gestellt wahrnehmen – dies aber rein objektiv meist gar nicht sind. [6]
+- **Was?**:  Inhalte von Verschwörungsmythen sind häufig geprägt durch Misstrauen gegenüber höhergestellten Institutionen und Personen, sog. „Eliten“. [6]
+- **Wie?**: Filterblasen in sozialen Medien können die Radikalisierung mithilfe von Verschwörungsmythen beschleunigen, insbesondere Videos können gezielter Emotionen ansprechen und sind so zugänglicher. [6]
+- **Warum?**: Psychologisch gesehen hilft die Beschäftigung mit Verschwörungsmythen bzw. der vermeintliche Erkenntnisgewinn durch diese, einen subjektiven Kontrollverlust auszugleichen. Sie können sinnstiftend, unterhaltsam und spannend wirken. Außerdem können sie gezielt dazu eingesetzt werden, bestimmte Personengruppen zu radikalisieren, z.B. um Wahlverhalten zu beeinflussen, demokratiefeindliche Dynamiken zu unterstützen und Gewalt zu rechtfertigen. [6][7]
+- **Was kann ich dagegen tun?**
     * Keine Falschmeldungen replizieren, sondern stattdessen ohne deren erneute Verbreitung über die tatsächlichen Verhältnisse aufklären [6]
     * Haltung zeigen gegen simplifizierende und häufig auch rassistische oder antisemitische Verschwörungserzählungen [6]
     * Sich selbst informieren, persönliche Gespräche suchen statt Schriftverkehr [6]
