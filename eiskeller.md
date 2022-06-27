@@ -66,9 +66,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
     imgTag.addEventListener("click", function (event) {
         imgState = (++imgState % images.length);
         event.target.src = images[imgState];
-    
-        var images = [ "hermann_grid_waves.PNG", "hermann_grid.PNG"]
-
+    });
     
     
     var images2 = [ "hermann_grid_lösungsbuchstabe.PNG", "hermann_grid.PNG"]
@@ -80,6 +78,6 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
     imgTag.addEventListener("click", function (event) {
         imgState2 = (++imgState2 % images2.length);
         event.target.src = images2[imgState2];
-});
+    });
 </script>
 ‌
