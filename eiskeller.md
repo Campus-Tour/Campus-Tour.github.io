@@ -15,7 +15,7 @@ Heutzutage wird am PEG-Gebäude unter anderem psychologische Forschung betrieben
 ## Optische Täuschungen
 Im Folgenden ist eine optische Täuschung zu sehen, die als Hermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
 
-<img id="imgClickAndChange" src="hermann_grid.PNG" width="600">
+<img src="hermann_grid.PNG" width="600">
 
 Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jedoch nicht im Zentrum des Blickes auftreten. Richtet man den Blick nun auf diese grauen Flecken, verschwinden diese wieder im Zentrum des Blickes und erscheinen in der Peripherie. Ludimar Hermann [2] entdeckte diese optische Täuschung im Jahre 1870, deren Erklärung bis 1960 zunächst verborgen blieb und später nochmal widerlegt wurde. In diesem Jahr schlug Baumgartner vor, dass die Hermann-Gitter-Täuschung auf den zirkulären rezeptiven Feldern von Ganglienzellen zurückzuführen sei [3]. 
 
@@ -23,9 +23,9 @@ Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jed
 
 Diese besitzen im Zentrum einen aktivierenden Bereich und im äußeren Ring einen hemmenden Bereich. An Kreuzungsstellen wird vierfach gehemmt, während entlang einer Linie nur zweifach gehemmt wird, sodass nur an Kreuzungsstellen graue Flecken auftreten. Im Zentrum des Blickes hingegen fällt das Licht auf die Fovea, welche eine bessere Auflösung durch kleinere rezeptive Felder besitzt, sodass der Effekt hier nicht zu sehen ist [1].
 
-Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann, weshalb die Hermann-Gitter-Täuschung durch sinusoidale Linien verschwindet [4]. Ein neues Modell von Corney und Lotto [5] erklärt die Hermann-Gitter-Täuschung mit der Informationsverarbeitung auf höherer Ebene durch Untersuchung an einem künstlichen neuronalen Netz, sodass streng genommen vielleicht nicht von einer “optischen” Täuschung gesprochen werden kann.
+Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann, weshalb die Hermann-Gitter-Täuschung durch sinusoidale Linien verschwindet [4]. Probier es aus: Ein Klick auf das Bild wechselt zwischen den geraden und wellenförmigen Linien. Ein neues Modell von Corney und Lotto [5] erklärt die Hermann-Gitter-Täuschung mit der Informationsverarbeitung auf höherer Ebene durch Untersuchung an einem künstlichen neuronalen Netz, sodass streng genommen vielleicht nicht von einer “optischen” Täuschung gesprochen werden kann.
 
-<img src="hermann_grid_waves.PNG" width="600">
+<img src="hermann_grid_waves.PNG" id="imgClickAndChange" width="600">
 
 ## Verschwörungsmythen
 - Wer?:  Der Glaube an Verschwörungsmythen ist gleich häufig verteilt über alle Altersgruppen, Berufsgruppen und zwischen Ost- und Westdeutschland. Zugänglicher für diese sind Menschen mit rechter und rechtspopulistischer politischer Einstellung, mit vglw. niedrigerem Bildungsniveau und Personen, die sich als sozial und wirtschaftlich schlechter gestellt wahrnehmen – dies aber rein objektiv meist gar nicht sind. [6]
