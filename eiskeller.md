@@ -75,9 +75,9 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 
     var imgTag2 = document.getElementById("imgClickAndChange2");
 
-    imgTag.addEventListener("click", function (event2) {
+    imgTag2.addEventListener("click", function (event) {
         imgState2 = (++imgState2 % images2.length);
-        event2.target.src = images2[imgState2];
+        event.target.src = images2[imgState2];
     });
 </script>
 ‌
