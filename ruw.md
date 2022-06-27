@@ -17,10 +17,11 @@ Von insgesamt 45521 Studierenden im Jahr 2020 an der Goethe Universität studier
 
 Der zweite Buchstabe des Nachnamens der gesuchten Person ist der Lösungsbuchstabe der Station.
 
-<img src="RuW1.jpg" width="400">
+<img src="RuW1.jpg" width="400"> <br/>
 Entdecke das RUW auch von innen! Hier gibt es viel zu entdecken. An gewissen Orten findest Du spannende Infotafeln zu bedeutenden Wissenschaftler*innen des Rechts und der Wirtschaft.
 <br/>
-<img src="RuW Büste.jpg" width="400">
+
+<img src="RuW Büste.jpg" width="400"> <br/>
 Im 1.OG befindet sich beispielsweise eine Büste zu Reinhard Selten, der an der Goethe Universität Mathematik und Volkswirtschaftslehre studierte und 1994 mit dem Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften ausgezeichnet wurde.
 
 ### Nächste Station: _WORT//WORT//WORT_
