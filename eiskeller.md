@@ -71,7 +71,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 
     
     
-    var images = [ "hermann_grid_lösungsbuchstabe.PNG", "hermann_grid.PNG"]
+    var images2 = [ "hermann_grid_lösungsbuchstabe.PNG", "hermann_grid.PNG"]
 
     var imgState2 = 0;
 
