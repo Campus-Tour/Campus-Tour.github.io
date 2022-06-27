@@ -45,5 +45,5 @@ werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächst
 
 
 
-### Nächste Station: _WORT//WORT//WORT_   
+### Nächste Station: _///beurteilt.hinterher.touristen_   
 <img src="Pose2.svg" width="200">
