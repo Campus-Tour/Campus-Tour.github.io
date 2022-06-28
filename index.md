@@ -9,7 +9,7 @@ Wir, das sind Deutschlandstipendiatinnen und -stipendiaten des Jahrgangs 2021/20
 
 Du bestimmst selbst, wo dein Rundweg über den Campus beginnt und die [Dreiwortadresse](https://what3words.com/pinsel.enthielt.vorweisen) leitet dich zur nächsten Station. Die Dreiwortadresse teilt die Welt in 3mx3m große Quadrate ein und jedem dieser Quadrate wird eine einmalige Kombination aus drei Wörter zugeteilt. Gib die Dreiwortadresse ///wort1.wort2.wort3 in das Feld auf der Webseite von [what3words](https://what3words.com/pinsel.enthielt.vorweisen) ein, um den Standort der nächsten Station zu erfahren. Mach dich bereit für spannende Rätsel, unbekannte Wege und wissenswerte Informationen!
 
-Entscheidest du dich für die gesamte Tour, dann findest Du an jeder Station einen Lösungsbuchstaben (bereits in der richtigen Reihenfolge) und am Ende ergibt sich daraus ein Lösungswort. Sende es einfach an campustour2022@gmail.com, denn Du sollst für dein Engangement belohnt werden: Die 30 ersten Einsendungen erhalten tolle Preise, wie zum Beispiel Kinogutscheine oder Eintrittskarten in Frankfurter Museen! 
+Entscheidest du dich für die gesamte Tour, dann findest Du an jeder Station einen Lösungsbuchstaben (Hinweis: bereits in der richtigen Reihenfolge; ein Buchstabe davon muss mit einem Punkt von den anderen abgetrennt werden) und am Ende ergibt sich daraus ein Lösungswort. Sende es einfach an campustour2022@gmail.com, denn Du sollst für dein Engangement belohnt werden: Die 30 ersten Einsendungen erhalten tolle Preise, wie zum Beispiel Kinogutscheine oder Eintrittskarten in Frankfurter Museen! 
 Schnapp dir deine Freunde und los gehts!
 
 ### Wir wünschen Dir viel Spaß!
