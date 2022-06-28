@@ -48,5 +48,6 @@ Den Lösungsbuchstaben dieser Station findest Du an dritter und letzter Stelle i
 
 Mehr zu dem Adorno-Denkmal, findest du [hier](https://www.uni-frankfurt.de/66990032/adorno-denkmal). Dort werden weiterführende Literaturangaben gemacht.
 Und falls du gerne mehr zu Adornos Leben erfahren möchtest, klicke [hier](https://www.hdg.de/lemo/biografie/theodor-w-adorno.html). Eine Darstellung seiner Theorie findet sich ausführlich auf der Website der [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/adorno/). Viel Spaß beim Stöbern!
-### Nächste Station: _///mauer.scharf.frühester_   
+
+### Nächste Station: _///peilen.beitrag.aufbauten_   
 <img src="Pose2.svg" width="200">
