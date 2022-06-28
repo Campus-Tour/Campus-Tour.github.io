@@ -60,7 +60,7 @@ Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Ob
 
 
 ### Rätsel
-Für das Lösungswort musst Du die Harry Potter-Bibliothek finden. Wie in der Hogwarts Schule für Hexerei und Zauberei ist das auch hier kein leichtes Unterfangen. Den Zugang zur Bibliothek findest Du im dritten Stock des Q1 vom IG-Farbengebäude. Von dort musst Du in den zweiten Stock hinunter gehen und dort ist der Eingang in die besondere Bibliothek der Raum 2.121. 
+Für das Lösungswort musst Du die Harry Potter-Bibliothek finden. Wie in der Hogwarts Schule für Hexerei und Zauberei ist das auch hier kein leichtes Unterfangen. Den Zugang zur Bibliothek findest Du im dritten Stock des Q1 vom IG-Farbengebäude. Von dort musst Du in den zweiten Stock hinunter gehen und dort ist der Eingang in die besondere Bibliothek (Raum 2.121). 
 
 <br> <br>
 
