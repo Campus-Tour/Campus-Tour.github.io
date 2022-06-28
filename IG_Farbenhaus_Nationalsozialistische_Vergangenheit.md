@@ -29,5 +29,5 @@ Wenn du die Lösung gefunden hast, dann nehme den vierten Buchstaben der Antwort
 Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den [Paternosteraufzug](IG_Farbenhaus_Paternoster.md) und die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
 besucht? Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
 
-### Nächste Station: _WORT//WORT//WORT_   
+
 <img src="Pose2.svg" width="200">
