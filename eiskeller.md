@@ -45,7 +45,7 @@ Diese Erklärung wurde später widerlegt, da dieses Modell nicht erklären kann,
 ### Rätsel
 Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt Du dich täuschen?
 <br><br>
-### Nächste Station: _///blende.digitalen.angehängt_
+### Nächste Station: _///seins.meist.entlasten_
 <br><br>
 ### Referenzen  
 [1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5  
