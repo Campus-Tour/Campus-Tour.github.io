@@ -36,7 +36,8 @@ Schnapp dir deine Freunde und los gehts!
 [Adornos Schreibtisch](adornos_schreibtisch.md)
 
 
-### Wir danken folgenden Sponsoren für die Bereitsellung der Preise
+
+### Wir danken folgenden Sponsoren für die Bereitstellung der Preise
 * Arthouse Kinos Frankfurt
 * Senckenberg Museum Frankfurt
 * Deutsches Filmmuseum Frankfurt
