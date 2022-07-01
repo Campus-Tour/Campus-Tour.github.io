@@ -44,7 +44,7 @@ Ein neues Modell von Corney und Lotto [5] erklärt die Hermann-Gitter-Täuschung
 
 
 ### Rätsel
-Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall. Findest du sie oder lässt Du dich täuschen?
+Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall, reicht es zu beobachten oder sind vielleicht auch Handlungen gefragt? Findest du sie oder lässt Du dich täuschen?
 <br><br>
 ### Nächste Station: _///seins.meist.entlasten_
 <br><br>
