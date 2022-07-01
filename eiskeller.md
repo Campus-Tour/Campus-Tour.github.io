@@ -71,7 +71,7 @@ Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusione
     });
     
     
-    var images2 = [ "hermann_grid_lösungsbuchstabe_klein.PNG", "hermann_grid.PNG"]
+    var images2 = ["hermann_grid.PNG", "hermann_grid_lösungsbuchstabe.PNG"]
 
     var imgState2 = 0;
 
