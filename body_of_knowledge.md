@@ -54,7 +54,7 @@ Der Lösungsbuchstabe für diese Station ist der Anfangsbuchstaben des letzten R
 
 Hast Du Lust,auch einen Rubus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
 
-### Nächste Station: _///werfen.ominös.schenken_   
+### Nächste Station: _///kopiert.höhe.bahnhöfen_   
 <img src="Pose2.svg" width="200">
 
 <script>
