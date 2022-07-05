@@ -55,7 +55,7 @@ Zudem kannst Du [hier](https://campus-tour.github.io/HabilDumaVeronika_Kurztext.
 
 Der Lösungsbuchstabe dieser Station ist der Anfangsbuchstabe des Vornamens des ersten Jungen!
 
-### Nächste Station: _///betrieben.befreiung.langer_   
+### Nächste Station: _///fischte.erprobt.gelbes_   
 <img src="Pose2.svg" width="200">
 
 
