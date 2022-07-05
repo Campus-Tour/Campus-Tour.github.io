@@ -50,7 +50,7 @@ Du hast Lust, selber einen Permakultur-Garten anzulegen?
 Hier gibt es 9 praktische Tipps dazu: [www.wurzelwerk.net](https://www.wurzelwerk.net/2020/10/28/permakultur-garten/). 
 Und auch in der Unibibliothek findest du ein Ebook dazu: [Handbuch Permakultur : Klug planen und nachhaltig gärtnern / Ulrike Windsperger](https://ubffm.hds.hebis.de/Record/HEB486052583)
 
-### Nächste Station: _///hindern.freund.beheizt_   
+### Nächste Station: _///eulen.jünger.igel_   
 <img src="Pose2.svg" width="200">
 
 ### Quellen der Cliparts:
