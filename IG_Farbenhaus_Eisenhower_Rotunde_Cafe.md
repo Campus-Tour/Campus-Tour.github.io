@@ -11,10 +11,12 @@ Diese ist nicht erst mit dem Einzug der Universität in das Gebäude zu einem Or
 
 <br>
 
-Aufgrund des verglasten Pavillon erübrigt sich von hier ein sagenhafter Panoramablick in Richtung Casino. Von hier aus kannst Du Dir überlegen, ob Du noch zur [Dauerausstellung „Von der Grüneburg bis zum Campus Westend“](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md) möchtest, oder auch zum [Paternosteraufzug](IG_Farbenhaus_Paternoster.md). Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+Aufgrund des verglasten Pavillon erübrigt sich von hier ein sagenhafter Panoramablick in Richtung Casino. Von hier aus kannst Du Dir überlegen, ob Du noch zur [Dauerausstellung „Von der Grüneburg bis zum Campus Westend“](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md) möchtest, oder auch zum [Paternosteraufzug](IG_Farbenhaus_Paternoster.md). Ansonsten gehe doch schon zur nächsten Station, der Harry-Potter-Bibliothek.
 
-### Nächste Station: _WORT//WORT//WORT_   
+### Nächste Station: ///angeregt.blatt.umso  
+Du kannst zudem [hier](https://campus-tour.github.io/harry_potter-bibliothek.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
 
-### Quellen
-[1]Drummer, Heike und Jutta Zwilling (2007): Von der Grüneburg bis Campus Westend. Die Geschichte des IG Farben-Hauses. Frankfurt am Main: Präsidium der Johann-Wolfgang-Goethe-Universität.
+### Quelle
+[1] Drummer, H.; Zwilling J. (2007). Von der Grüneburg bis Campus Westend. Die Geschichte des IG Farben-Hauses. Frankfurt a.M.: Präsidium der Johann-Wolfgang-Goethe-Universität.
