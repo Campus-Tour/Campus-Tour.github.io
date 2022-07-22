@@ -32,7 +32,7 @@ Café in der imposanten Eisenhower-Rotunde und genieße den Ausblick.
 
 <img src="Treppe IG.jpg" width="400">
 
-PS: Falls Deine Kraftreserven schon etwas ausgelaugt sind, dann empfehlen wir Dir, 
+PS: Falls deine Kraftreserven schon etwas ausgelaugt sind, dann empfehlen wir Dir, 
 zumindest einen Blick auf die nationalsozialistische Vergangenheit des Gebäudes zu 
 werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächste Rätsel...
 
@@ -44,6 +44,7 @@ werfen und den Weg nach links zu gehen, denn dort befindet sich auch das nächst
 
 
 
-
 ### Nächste Station: _///angeregt.blatt.umso_   
+Du kannst zudem [hier](https://campus-tour.github.io/harry_potter-bibliothek.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
