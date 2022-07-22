@@ -60,15 +60,16 @@ Bücher über Bücher in verworrenen Gängen findet man im ersten und zweiten Ob
 
 
 ### Rätsel
-Für das Lösungswort musst Du die Harry Potter-Bibliothek finden. Wie in der Hogwarts Schule für Hexerei und Zauberei ist das auch hier kein leichtes Unterfangen. Den Zugang zur Bibliothek findest Du im dritten Stock des Q1 vom IG-Farbengebäude. Von dort musst Du in den zweiten Stock hinunter gehen und dort ist der Eingang in die besondere Bibliothek (Raum 2.121). 
+Für das Lösungswort musst Du die Harry Potter-Bibliothek finden. Wie in der Hogwarts Schule für Hexerei und Zauberei ist das auch hier kein leichtes Unterfangen. Den Zugang zur Bibliothek findest Du im dritten Stock des Q1 vom IG-Farbengebäude. Von dort musst Du in den zweiten Stock hinunter gehen und dort ist der Eingang in die besondere Bibliothek (Raum 2.121). Sobald Du von dort aus zum ersten Bücherregal gelangst, findest Du den Lösungsbuchstaben dieser Station.
 
 <br> <br>
 
 ### Nächste Station: _///sportler.ausbau.boden_
+Du kannst zudem [hier](https://campus-tour.github.io/wollheim-pavillon.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
 
 <br> <br>
 
-### Referenzen  
-[1] Carruthers, D. M. J. (2015). Lines of flight of the deadly nightshade: An enquiry into the properties of the magical plant, its literature and history. Mosaic: A Journal for the Interdisciplinary Study of Literature, 48(2), 119–132. https://doi.org/10.1353/mos.2015.0025  
-[2] Llanes, L. C., Sa, N. B., Cenci, A. R., Teixeira, K. F., de França, I. V., Meier, L., & de Oliveira, A. S. (2022). Witches, potions, and metabolites: An overview from a medicinal perspective. RSC Medicinal Chemistry, 13(4), 405–412. https://doi.org/10.1039/d2md00025c
+### Quellen  
+[1] Carruthers, D. M. J. (2015). Lines of flight of the deadly nightshade: An enquiry into the properties of the magical plant, its literature and history. Mosaic: A Journal for the Interdisciplinary Study of Literature, 48(2), 119–32. https://doi.org/10.1353/mos.2015.0025  
+[2] Llanes, L. C.; Sa, N. B.; Cenci, A. R.; Teixeira, K. F.; de França, I. V.; Meier, L.; de Oliveira, A. S. (2022). Witches, potions, and metabolites: An overview from a medicinal perspective. RSC Medicinal Chemistry, 13(4), 405–12. https://doi.org/10.1039/d2md00025c
 
