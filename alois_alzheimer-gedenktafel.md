@@ -5,12 +5,12 @@
 Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
 
 Diese Gedenktafel erinnert an Alois Alzheimer. <img align="right" src="Pose1_1.svg" width="100"> 
-Er stieß erstmalig auf anatomische Veränderungen im Gehirn einer Patientin, welche typisch für die später nach ihm benannte Erkrankung waren: Plaques, Fibrillen und ein verringertes Gehirnvolumen. [Hier](https://www.uni-frankfurt.de/66990042/Gedenktafel_für_Alois_Alzheimer) auf der Uni-Website findest du noch weitere Informationen zu Alois Alzheimer.
+Er stieß erstmalig auf anatomische Veränderungen im Gehirn einer Patientin (nämlich: Plaques, Fibrillen und ein verringertes Gehirnvolumen), welche typisch für die später nach ihm benannte Erkrankung waren. [Hier](https://www.uni-frankfurt.de/66990042/Gedenktafel_für_Alois_Alzheimer) auf der Uni-Website findest Du noch weitere Informationen zu Alois Alzheimer.
 
-Aber was weiß man heute über die Alzheimer-Krankheit - und was nicht? Hier findest du ein 
+Aber was weiß man heute über die Alzheimer-Krankheit - und was nicht? Hier findest Du ein 
 paar spannende Informationen dazu.
 
-## Wusstest du, dass..
+## Wusstest Du, dass..
 
 * etwa 1 % der Bevölkerung von einer Alzheimer-
 Demenz betroffen ist?  
@@ -19,7 +19,7 @@ Demenz betroffen ist?
 <img src="Alzheimer.jpg" width="300">
 
 * auf anatomischer Ebene zwei Mechanismen (beta Amyloid-Plaques & TAU-Fibrillen) dazu beitragen, dass die Alzheimer-typischen Symptome 
-Gedächtnisstörungen, Verwirrtheit, Sprachstörungen auftreten? Hier kannst du eine 3D-Animation dazu anschauen: {% include Body_of_Knowledge_youtubePlayer.html id="paquj8hSdpc" %}
+Gedächtnisstörungen, Verwirrtheit, Sprachstörungen auftreten? Hier kannst Du eine 3D-Animation dazu anschauen: {% include Body_of_Knowledge_youtubePlayer.html id="paquj8hSdpc" %}
 
 * diese Veränderungen im Hippocampus – dem Sitz des Gedächtnisses – zuerst auftreten und deswegen Gedächtnisprobleme bereits im Frühstadium von Alzheimer auftreten? 
 
@@ -40,7 +40,7 @@ Alter weiterhin gefordert wird? Beispielsweise durch das Lernen neuer Informatio
 (z.B. eine neue Sprache), Gedächtnisübungen, soziale Aktivitäten, gesunde 
 Ernährung, körperliche Aktivität, usw. 
  
-Finde nun heraus, welche der folgenden Aussagen richtig ist. Selbst wenn du vergessen haben solltest, was du soeben gelesen hast: Alzheimer ist nicht die einzige mögliche Ursache für Gedächtnisverlust :) 
+Finde nun heraus, welche der folgenden Aussagen richtig ist. Selbst wenn Du vergessen haben solltest, was Du soeben gelesen hast: Alzheimer ist nicht die einzige mögliche Ursache für Gedächtnisverlust :) 
 Die Zahl vor der richtigen Aussage gibt die Position des Lösungsbuchstabens im Alphabet an.
 
 ### (7) Alzheimer kann geheilt werden.
@@ -49,6 +49,8 @@ Die Zahl vor der richtigen Aussage gibt die Position des Lösungsbuchstabens im 
 
 
 ### Nächste Station: _///kleber.gestiegen.sagte_   
+Du kannst zudem [hier](https://campus-tour.github.io/ig_farben.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
 
 ### Quellen
