@@ -56,6 +56,8 @@ Zudem kannst Du [hier](https://campus-tour.github.io/HabilDumaVeronika_Kurztext.
 Der Lösungsbuchstabe dieser Station ist der Anfangsbuchstabe des Vornamens des ersten Jungen!
 
 ### Nächste Station: _///fischte.erprobt.gelbes_   
+Du kannst zudem [hier](https://campus-tour.github.io/ruw.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
 
 
