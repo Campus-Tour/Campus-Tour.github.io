@@ -43,7 +43,7 @@ Ein neues Modell von Corney und Lotto [5] erklärt die Hermann-Gitter-Täuschung
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html  
 
 
-Der Lösungsbuchstabe ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall – findest Du den Großbuchstaben oder lässt Du dich täuschen?
+Der Lösungsbuchstabe ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall – findest Du den schiefen Großbuchstaben oder lässt Du dich täuschen?
 <br><br>
 ### Nächste Station: _///seins.meist.entlasten_
 Du kannst zudem [hier](https://campus-tour.github.io/adornos_schreibtisch.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
