@@ -11,9 +11,9 @@ Du befindest dich hier an der Station “Eiskeller” im Gebäude der Psychologi
 Heutzutage wird am PEG-Gebäude unter anderem psychologische Forschung betrieben und Studierenden werden die vielfältigen Seiten der Psychologie gelehrt. Dazu gehören beispielsweise…
 
 ## Optische Täuschungen
-Im Folgenden ist eine optische Täuschung zu sehen, die als Hermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
+Im Folgenden ist eine optische Täuschung zu sehen, die als *H*ermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
 
-<img src="hermann_grid_lösungsbuchstabe.PNG" width="600">
+<img src="hermann_grid.PNG" width="600">
 
 Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jedoch nicht im Zentrum des Blickes auftreten. Richtet man den Blick nun auf diese grauen Flecken, verschwinden diese wieder im Zentrum des Blickes und erscheinen in der Peripherie. Ludimar Hermann [2] entdeckte diese optische Täuschung im Jahre 1870, deren Erklärung bis 1960 zunächst verborgen blieb und später nochmal widerlegt wurde. In diesem Jahr schlug Baumgartner vor, dass die Hermann-Gitter-Täuschung auf den zirkulären rezeptiven Feldern von Ganglienzellen zurückzuführen sei [3]. 
 
