@@ -27,7 +27,7 @@ In welchem Konzentrationslager wurden ab 1942 die tödlichen Höchst-Medikamente
 Wenn du die Lösung gefunden hast, dann nehme den vierten Buchstaben der Antwort, um den nächsten Buchstaben für unser Rätsel zu erhalten.
 
 Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den [Paternosteraufzug](IG_Farbenhaus_Paternoster.md) und die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)
-besucht? Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
+besucht? Ansonsten gehe doch schon zur nächsten Station, der Harry-Potter-Bibliothek.
 
 ### Nächste Station: _///angeregt.blatt.umso_
 Du kannst zudem [hier](https://campus-tour.github.io/harry_potter-bibliothek.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
