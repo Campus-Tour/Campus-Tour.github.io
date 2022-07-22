@@ -54,11 +54,11 @@ Du kannst zudem [hier](https://campus-tour.github.io/ig_farben.html) klicken, um
 <img src="Pose2.svg" width="200">
 
 ### Quellen
-Alzheimer Forschung Initiative e.V.
+Alzheimer Forschung Initiative e.V.; [Link](https://www.alzheimer-forschung.de/)
 
-Bellenguez, C., Küçükali, F., Jansen, I. E., Kleineidam, L., Moreno-Grau, S., Amin, N., ... &	 Goldhardt, O. (2022). New insights into the genetic etiology of Alzheimer’s disease	 and related dementias. Nature genetics, 54(4), 412-436.
+Bellenguez, C.; Küçükali, F.; Jansen, I. E.; I.E. et al. (2022). New insights into the genetic etiology of Alzheimer’s disease and related dementias. Nature genetics, 54(4), 412–36.
 
-Shcherbatykh, I., & Carpenter, D. O. (2007). The role of metals in the etiology of	 Alzheimer's disease. Journal of Alzheimer's disease, 11(2), 191-205.
+Shcherbatykh, I.; Carpenter, D. O. (2007). The role of metals in the etiology of Alzheimer's disease. Journal of Alzheimer's disease, 11(2), 191–205.
 
-Sochocka, M., Zwolinska, K., & Leszek, J. (2017). The infectious etiology of Alzheimer's 	disease. Current neuropharmacology, 15(7), 996-1009.		[http://dx.doi.org/10.2174/1570159X15666170313122937](http://dx.doi.org/10.2174/1570159X15666170313122937)
+Sochocka, M.; Zwolinska, K.; Leszek, J. (2017). The infectious etiology of Alzheimer's disease. Current neuropharmacology, 15(7), 996-1009.	[Link](http://dx.doi.org/10.2174/1570159X15666170313122937)
 
