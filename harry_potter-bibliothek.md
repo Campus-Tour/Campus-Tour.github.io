@@ -64,7 +64,7 @@ Für das Lösungswort musst Du die Harry Potter-Bibliothek finden. Wie in der Ho
 
 <br> <br>
 
-### Nächste Station: _///sportler.ausbau.boden_
+### Nächste Station: _///ursache.ergreifen.ablaufen_
 Du kannst zudem [hier](https://campus-tour.github.io/wollheim-pavillon.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
 
 <br> <br>
