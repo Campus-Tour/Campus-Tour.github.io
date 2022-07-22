@@ -56,7 +56,7 @@ Du kannst zudem [hier](https://campus-tour.github.io/ig_farben.html) klicken, um
 ### Quellen
 Alzheimer Forschung Initiative e.V.; [Link](https://www.alzheimer-forschung.de/)
 
-Bellenguez, C.; Küçükali, F.; Jansen, I. E.; I.E. et al. (2022). New insights into the genetic etiology of Alzheimer’s disease and related dementias. Nature genetics, 54(4), 412–36.
+Bellenguez, C.; Küçükali, F.; Jansen, I. E. et al. (2022). New insights into the genetic etiology of Alzheimer’s disease and related dementias. Nature genetics, 54(4), 412–36.
 
 Shcherbatykh, I.; Carpenter, D. O. (2007). The role of metals in the etiology of Alzheimer's disease. Journal of Alzheimer's disease, 11(2), 191–205.
 
