@@ -11,18 +11,20 @@ Von insgesamt 45521 Studierenden im Jahr 2020 an der Goethe Universität studier
 *	wurde in dem Jahr geboren, als der erste wissenschaftliche Taschenrechner HP-35 erfunden wurde.
 *	erhielt 1998 ihr Diplom in Volkswirtschaftslehre in ihrer Geburtsstadt. 
 *	lehrt seit 2009 an der Goethe Universität Frankfurt am Main Wirtschaftswissenschaften und hat eine Professur in Makroökonomie und Entwicklung inne.
-*	wurde 2018 für ihre international angesehene Arbeit zu unterschiedlichen Wertehaltungen zwischen DDR-Sozialisierten Bürger*innen und west-sozilaisierten Bürger*innen mit dem Leibniz-Preis ausgezeichnet. Hier bestätigte die gesuchte Person die These, dass ökonomische Präferenzen veränderbar sind und in Abhängigkeit zum ökonomischen System stehen, in dem das Individuum lebt.  
+*	wurde 2018 für ihre international angesehene Arbeit zu unterschiedlichen Wertehaltungen zwischen DDR-Sozialisierten Bürger:innen und west-sozilaisierten Bürger:innen mit dem Leibniz-Preis ausgezeichnet. Hier bestätigte die gesuchte Person die These, dass ökonomische Präferenzen veränderbar sind und in Abhängigkeit zum ökonomischen System stehen, in dem das Individuum lebt.  
 *	ist im Jahr 2021 als Mitglied in die Nationale Akademie der Wissenschaften Leopoldina aufgenommen worden.
 *	trägt in ihrem Nachnamen ein in Deutschland heimisches Tier. 
 
 Der zweite Buchstabe des Nachnamens der gesuchten Person ist der Lösungsbuchstabe der Station.
 
 <img src="RuW1.jpg" width="400"> <br/>
-Entdecke das RUW auch von innen! Hier gibt es viel zu entdecken. An gewissen Orten findest Du spannende Infotafeln zu bedeutenden Wissenschaftler*innen des Rechts und der Wirtschaft.
+Entdecke das RUW auch von innen! Hier gibt es viel zu entdecken. An gewissen Orten findest Du spannende Infotafeln zu bedeutenden Wissenschaftler:innen des Rechts und der Wirtschaft.
 <br/>
 
 <img src="RuW Büste.jpg" width="400"> <br/>
 Im 1.OG befindet sich beispielsweise eine Büste zu Reinhard Selten, der an der Goethe Universität Mathematik und Volkswirtschaftslehre studierte und 1994 mit dem Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften ausgezeichnet wurde.
 
 ### Nächste Station: _///gesetz.wohnort.schieben_
+Du kannst zudem [hier](https://campus-tour.github.io/campus-garten.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
