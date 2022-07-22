@@ -4,7 +4,7 @@
 </p>
 Falls dies deine erste Station der Campus Tour ist und Du noch nicht weißt, was dich erwartet und wie der Ablauf ist, dann kannst Du auf unserer [Startseite](https://campus-tour.github.io) alles Wichtige nachlesen! Falls Du dich allerdings schon auskennst, dann kannst Du hier direkt weitermachen, viel Spaß! <br/>
 
-Vor dir siehst du das Adorno-Denkmal, das anlässlich zum 100. Geburtstag von Adorno 2003 in Bockenheim eingeweiht wurde. Seit 2016 steht es hier auf dem Campus Westend. Um mehr über Adorno zu erfahren und einen Einstieg in sein Denken zu erhalten, haben wir für dich einen Adorno-Kenner, Prof. Dr. Martin Saar (hier unten auf dem Foto zu sehen) interviewt. Hör gerne rein! 
+Vor Dir siehst Du das Adorno-Denkmal, das anlässlich zum 100. Geburtstag von Adorno 2003 in Bockenheim eingeweiht wurde. Seit 2016 steht es hier auf dem Campus Westend. Um mehr über Adorno zu erfahren und einen Einstieg in sein Denken zu erhalten, haben wir für dich einen Adorno-Kenner, Prof. Dr. Martin Saar (hier unten auf dem Foto zu sehen) interviewt. Hör gerne rein! 
 
 
 <img src="Adorno_ProfSaar.jpg" width="400">
@@ -39,15 +39,18 @@ Oliver Flügel-Martinsen und Franziska Martinsen).
 </figure>
 _Interview durchgeführt von Sophia Corell_
 
-Hast du anschließend Lust auf ein [Buchstabenrätsel?](https://puzzel.org/de/wordseeker/play?p=-N2WQ-WxgjMHpBN8dCs8) Es gilt, 10 Begriffe 
+Hast Du anschließend Lust auf ein [Buchstabenrätsel?](https://puzzel.org/de/wordseeker/play?p=-N2WQ-WxgjMHpBN8dCs8) Es gilt, 10 Begriffe 
 rund um Adorno in dem Buchstabenwirrwarr zu finden. Sie verstecken sich
 waagerecht, senkrecht und diagonal. Klicke einfach den ersten und letzten 
 Buchstaben des Wortes an und wenn es richtig ist, wird es in der Liste der 
 gesuchten Wörter durchgestrichen. Viel Spaß!
+
 Den Lösungsbuchstaben dieser Station findest Du an dritter und letzter Stelle in dem Namen von Adornos Kollegen, dem Direktor des Instituts für Sozialforschung (PS: Der Name ist einer der 10 Begriffe aus dem Buchstabenrätsel).
 
 Mehr zu dem Adorno-Denkmal, findest du [hier](https://www.uni-frankfurt.de/66990032/adorno-denkmal). Dort werden weiterführende Literaturangaben gemacht.
 Und falls du gerne mehr zu Adornos Leben erfahren möchtest, klicke [hier](https://www.hdg.de/lemo/biografie/theodor-w-adorno.html). Eine Darstellung seiner Theorie findet sich ausführlich auf der Website der [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/adorno/). Viel Spaß beim Stöbern!
 
-### Nächste Station: _///peilen.beitrag.aufbauten_   
+### Nächste Station: _///peilen.beitrag.aufbauten_
+Du kannst zudem [hier](https://campus-tour.github.io/body_of_knowledge.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
