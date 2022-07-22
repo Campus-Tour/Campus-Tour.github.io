@@ -13,7 +13,7 @@ Heutzutage wird am PEG-Gebäude unter anderem psychologische Forschung betrieben
 ## Optische Täuschungen
 Im Folgenden ist eine optische Täuschung zu sehen, die als Hermann-Gitter bekannt ist. (Abbildung abgewandelt nach Bach [1])
 
-<img src="hermann_grid.PNG" id="imgClickAndChange2" width="600">
+<img src="hermann_grid_lösungsbuchstabe.PNG" width="600">
 
 Beim Blick auf das Gitter sind in der Peripherie graue Flecken zu sehen, die jedoch nicht im Zentrum des Blickes auftreten. Richtet man den Blick nun auf diese grauen Flecken, verschwinden diese wieder im Zentrum des Blickes und erscheinen in der Peripherie. Ludimar Hermann [2] entdeckte diese optische Täuschung im Jahre 1870, deren Erklärung bis 1960 zunächst verborgen blieb und später nochmal widerlegt wurde. In diesem Jahr schlug Baumgartner vor, dass die Hermann-Gitter-Täuschung auf den zirkulären rezeptiven Feldern von Ganglienzellen zurückzuführen sei [3]. 
 
@@ -43,20 +43,20 @@ Ein neues Modell von Corney und Lotto [5] erklärt die Hermann-Gitter-Täuschung
         + Sektenberatungsstellen in Frankfurt: https://jugendschutz-frankfurt.de/sekten.html  
 
 
-### Rätsel
-Die Teillösung des Rätsels ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall, reicht es zu beobachten oder sind vielleicht auch Handlungen gefragt? Findest du sie oder lässt Du dich täuschen?
+Der Lösungsbuchstabe ist hier auf der Webseite versteckt. Doch Illusionen und Täuschungen sind überall – findest Du den Großbuchstaben oder lässt Du dich täuschen?
 <br><br>
 ### Nächste Station: _///seins.meist.entlasten_
+Du kannst zudem [hier](https://campus-tour.github.io/adornos_schreibtisch.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
 <br><br>
-### Referenzen  
-[1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–917. https://doi.org/10.1007/s00347-008-1845-5  
-[2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv Für Die Gesamte Physiologie Des Menschen Und Der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926  
-[3] Corney, D., & Lotto, R. B. (2007). What are lightness illusions and why do we see them? PLoS Computational Biology, 3(9), e180. https://doi.org/10.1371/journal.pcbi.0030180  
-[4] Geier, J., Bernáth, L., Hudák, M., & Séra, L. (2008). Straightness as the main factor of the hermann grid illusion. Perception, 37(5), 651–665. https://doi.org/10.1068/p5622  
-[5] Hermann, L. (1870). Eine Erscheinung simultanen Contrastes. Pflügers Archiv Für Die Gesammte Physiologie Des Menschen Und Der Tiere, 3(1), 13–15. https://doi.org/10.1007/bf01855743  
+### Quellen  
+[1] Bach, M. (2009). The hermann grid illusion: The classic textbook interpretation is obsolete. Der Ophthalmologe: Zeitschrift Der Deutschen Ophthalmologischen Gesellschaft, 106(10), 913–17. https://doi.org/10.1007/s00347-008-1845-5  
+[2] Baumgartner, G. (1960). Indirekte Größenbestimmung der rezeptiven Felder der Retina beim Menschen mittels der Hermannschen Gittertäuschung. Pflügers Archiv für die gesamte Physiologie des Menschen und der Tiere, 272(1), 21–22. https://doi.org/10.1007/bf00680926  
+[3] Corney, D.; Lotto, R. B. (2007). What are lightness illusions and why do we see them? PLoS Computational Biology, 3(9), e180. https://doi.org/10.1371/journal.pcbi.0030180  
+[4] Geier, J.; Bernáth, L.; Hudák, M.; Séra, L. (2008). Straightness as the main factor of the hermann grid illusion. Perception, 37(5), 651–65. https://doi.org/10.1068/p5622  
+[5] Hermann, L. (1870). Eine Erscheinung simultanen Contrastes. Pflügers Archiv für die gesammte Physiologie des Menschen und der Tiere, 3(1), 13–15. https://doi.org/10.1007/bf01855743  
 [6] Lamberty, P. (2019). Verschwörungsmythen als Radikalisierungs-beschleuniger: Eine psychologische Betrachtung. Die Erde.  
-[7] van Prooijen, J. W. (2022). Psychological benefits of believing conspiracy theories. Current Opinion in Psychology, 47, 101352. http://dx.doi.org/10.1016/j.copsyc.2022.101352.  
-[8] Frankfurt Humanities Research Centre. (n.d.). Goethe-Universität — Der Eiskeller auf dem Affenstein. www.uni-Frankfurt.de. Retrieved June 27, 2022, from https://www.uni-frankfurt.de/67654109/Der_Eiskeller_auf_dem_Affenstein
+[7] van Prooijen, J. W. (2022). Psychological benefits of believing conspiracy theories. Current Opinion in Psychology, 47, 1–5. http://dx.doi.org/10.1016/j.copsyc.2022.101352.  
+[8] Frankfurt Humanities Research Centre. (n.d.). Goethe-Universität — Der Eiskeller auf dem Affenstein. Retrieved June 27, 2022, from https://www.uni-frankfurt.de/67654109/Der_Eiskeller_auf_dem_Affenstein
 
 <script>
     var images = [ "hermann_grid_waves.PNG", "hermann_grid.PNG"]
