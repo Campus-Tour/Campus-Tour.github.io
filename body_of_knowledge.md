@@ -52,9 +52,10 @@ Nutze die Hinweise und überprüfe Deine Antwort, indem Du sie in den zugehörig
 
 Der Lösungsbuchstabe für diese Station ist der Anfangsbuchstaben des letzten Rebus-Wortes.
 
-Hast Du Lust,auch einen Rubus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
+Hast Du Lust,auch einen Rebus zu erstellen? [Hier findest du einen kostenlosen Rebus-Generator.](https://rebus.club/de)
 
-### Nächste Station: _///kopiert.höhe.bahnhöfen_   
+### Nächste Station: _///zulässig.tausch.warmes_  
+Du kannst zudem [hier](https://campus-tour.github.io/casino_mensa.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
 <img src="Pose2.svg" width="200">
 
 <script>
