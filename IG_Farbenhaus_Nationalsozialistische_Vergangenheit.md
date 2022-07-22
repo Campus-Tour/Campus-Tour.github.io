@@ -30,5 +30,6 @@ Ein weiterer Teil der Erkundung des Campus ist geschafft… Hast Du schon den [P
 besucht? Ansonsten gehe doch schon zur nächsten Station, dem Norbert-Wollheim-Pavillon.
 
 ### Nächste Station: _///angeregt.blatt.umso_
+Du kannst zudem [hier](https://campus-tour.github.io/harry_potter-bibliothek.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
 
 <img src="Pose2.svg" width="200">
