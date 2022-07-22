@@ -14,26 +14,26 @@ Schnapp dir deine Freunde und los gehts!
 
 ### Wir wünschen Dir viel Spaß!
 
+Hier siehst Du die Stationen der Tour in der vorgeschlagenen Reihenfolge für einen Rundweg:
+1. [Body of Knowledge](body_of_knowledge.md)
 
-[Body of Knowledge](body_of_knowledge.md)
+2. [Casino Mensa](casino_mensa.md)
 
-[Casino Mensa](casino_mensa.md)
+3. [Alois Alzheimer-Gedenktafel](alois_alzheimer-gedenktafel.md)
 
-[Alois Alzheimer-Gedenktafel](alois_alzheimer-gedenktafel.md)
+4. [IG Farben](ig_farben.md)
 
-[IG Farben](ig_farben.md)
+5. [Harry Potter-Bibliothek](harry_potter-bibliothek.md)
 
-[Harry Potter-Bibliothek](harry_potter-bibliothek.md)
+6. [Wollheim Pavillion](wollheim-pavillon.md)
 
-[Wollheim Pavillion](wollheim-pavillon.md)
+7. [Rechts- und Wirtschaftswissenschaften](ruw.md)
 
-[Rechts- und Wirtschaftswissenschaften](ruw.md)
+8. [Campus Garten](campus-garten.md)
 
-[Campus Garten](campus-garten.md)
+9. [Eiskeller](eiskeller.md)
 
-[Eiskeller](eiskeller.md)
-
-[Adornos Schreibtisch](adornos_schreibtisch.md)
+10. [Adornos Schreibtisch](adornos_schreibtisch.md)
 
 
 
