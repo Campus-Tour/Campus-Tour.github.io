@@ -18,9 +18,11 @@ B) Insbesondere im gesellschaftlichen Leben geraten Veganer*innen aufgrund sozia
 C) Eine Ernährung mit tierischen Produkten wird bisher als „normal“ angesehen, wodurch Fleischkonsumierende weniger mit ihrer Ernährungsweise konfrontiert werden und seltener in Rechtfertigungssituationen geraten. 
 
 Für einen ausführlicheren Einblick in das Forschungsprojekt unter Leitung von Prof. Christian Stegbauer siehe: 
-Windscheid, N.; Schöngarth, S.; Becker, S.; Aksoy, H. und Stegbauer, C. (2020): Ausbreitung des Veganismus. Wirtschaftssoziologisches Seminar untersucht vegetarische und vegane Konsumgewohnheiten. Unireport, 2(20), 7. https://www.unireport.info/87452345.pdf 
+Windscheid, N.; Schöngarth, S.; Becker, S.; Aksoy, H. und Stegbauer, C. (2020): Ausbreitung des Veganismus. Wirtschaftssoziologisches Seminar untersucht vegetarische und vegane Konsumgewohnheiten. Unireport, 2(20), 7. [Link](https://www.unireport.info/87452345.pdf) 
 
 Hat das Lösen des Rätsels Deinen Hunger oder Durst geweckt? Dann bietet sich die Mensa Casino wunderbar für eine kleine Rast an! 
 
 ### Nächste Station: _///absprache.kostbar.besatzung_
+Du kannst zudem [hier](https://campus-tour.github.io/alois_alzheimer-gedenktafel.html) klicken, um zur Seite der nächsten Station zu gelangen ;)
+
 <img src="Pose2.svg" width="200">
