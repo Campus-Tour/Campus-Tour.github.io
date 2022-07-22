@@ -48,9 +48,10 @@ Zum Glück ist das heute nicht mehr nötig.
 Also steig ein und fahr‘ ein paar Runden – wer weiß, wie lange dies noch möglich 
 sein wird!
 
-Nach deinem Ritt kannst Du entscheiden, wie es weitergeht… Möchtest Du noch zur [geschichtlichen Dauerausstellung](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)? Oder für einen kleinen Snack in die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)?
+Nach deinem Ritt kannst Du entscheiden, wie es weitergeht… Möchtest Du noch zur [geschichtlichen Dauerausstellung](IG_Farbenhaus_Nationalsozialistische_Vergangenheit.md)? Oder für einen kleinen Snack in die [Eisenhower-Rotunde](IG_Farbenhaus_Eisenhower_Rotunde_Cafe.md)? Oder direkt weiter zur nächsten Station?
                                                                                  
 ### Nächste Station: _///angeregt.blatt.umso_   
+Du kannst zudem [hier](https://campus-tour.github.io/harry_potter-bibliothek.html) klicken, um zur Seite der nächsten Station zu gelangen ;)                                                                                                                                                                  
 <img src="Pose2.svg" width="200">                                                                           
 
                                                                                                                                                               
